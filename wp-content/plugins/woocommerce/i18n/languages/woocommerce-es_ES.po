@@ -3,22 +3,1683 @@ msgstr ""
 "Project-Id-Version: WooCommerce v2.0.14\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2013-10-16 07:44+0100\n"
-"PO-Revision-Date: 2014-12-10 19:58+0100\n"
-"Last-Translator: \n"
-"Language-Team: WEBIN.ES - 20-Agosto-1013-Autor: Luis Sicilia Segovia "
-"<webin@terra.com>\n"
-"Language: es_ES\n"
+"PO-Revision-Date: 2017-01-07 20:21+0000\n"
+"Last-Translator: adminmk <admin@mk.com.bo>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Loco - https://localise.biz/\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../../\n"
 "X-Textdomain-Support: yes\n"
-"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-0: ."
+
+# @ woocommerce
+#: woocommerce-core-functions.php:715
+msgid "Canadian Dollars"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:716
+msgid "Chinese Yuan"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:717
+msgid "Czech Koruna"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:718
+msgid "Danish Krone"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:720
+msgid "Hong Kong Dollar"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:721
+msgid "Hungarian Forint"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:722
+msgid "Indonesia Rupiah"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:723
+msgid "Indian Rupee"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:724
+msgid "Israeli Shekel"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:725
+msgid "Japanese Yen"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:726
+msgid "South Korean Won"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:727
+msgid "Malaysian Ringgits"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:728
+msgid "Mexican Peso"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:729
+msgid "Norwegian Krone"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:730
+msgid "New Zealand Dollar"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:731
+msgid "Philippine Pesos"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:732
+msgid "Polish Zloty"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:733
+msgid "Pounds Sterling"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:734
+msgid "Romanian Leu"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:735
+msgid "Russian Ruble"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:736
+msgid "Singapore Dollar"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:737
+msgid "South African rand"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:738
+msgid "Swedish Krona"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:739
+msgid "Swiss Franc"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:740
+msgid "Taiwan New Dollars"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:741
+msgid "Thai Baht"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce-core-functions.php:742
+msgid "Turkish Lira"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce.php:171 admin/includes/welcome.php:154
+msgid "Docs"
+msgstr ""
+
+# @ woocommerce
+#: admin/post-types/shop_order.php:133
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+# @ woocommerce
+#: classes/class-wc-countries.php:58
+msgid "Belau"
+msgstr ""
+
+# @ woocommerce
+#: classes/class-wc-countries.php:94
+msgid "Cura&Ccedil;ao"
+msgstr ""
+
+# @ woocommerce
+#: classes/class-wc-countries.php:132
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+# @ woocommerce
+#: classes/class-wc-countries.php:141
+msgid "Republic of Ireland"
+msgstr ""
+
+# @ woocommerce
+#: classes/class-wc-countries.php:222
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+# @ woocommerce
+#: classes/class-wc-countries.php:240
+msgid "South Sudan"
+msgstr ""
+
+# @ woocommerce
+#: classes/class-wc-countries.php:277
+msgid "Western Samoa"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/BR.php:19
+msgid "Distrito Federal"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/BR.php:31
+msgid "Rio de Janeiro"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/BR.php:32
+msgid "Rio Grande do Norte"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/BR.php:33
+msgid "Rio Grande do Sul"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/BR.php:36
+msgid "Santa Catarina"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/BR.php:37
+msgid "S&atilde;o Paulo"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:13
+msgid "Yunnan / &#20113;&#21335;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:14
+msgid "Beijing / &#21271;&#20140;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:15
+msgid "Tianjin / &#22825;&#27941;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:16
+msgid "Hebei / &#27827;&#21271;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:17
+msgid "Shanxi / &#23665;&#35199;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:18
+msgid "Inner Mongolia / &#20839;&#33945;&#21476;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:19
+msgid "Liaoning / &#36797;&#23425;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:20
+msgid "Jilin / &#21513;&#26519;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:21
+msgid "Heilongjiang / &#40657;&#40857;&#27743;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:22
+msgid "Shanghai / &#19978;&#28023;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:23
+msgid "Jiangsu / &#27743;&#33487;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:24
+msgid "Zhejiang / &#27993;&#27743;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:25
+msgid "Anhui / &#23433;&#24509;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:26
+msgid "Fujian / &#31119;&#24314;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:27
+msgid "Jiangxi / &#27743;&#35199;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:28
+msgid "Shandong / &#23665;&#19996;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:29
+msgid "Henan / &#27827;&#21335;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:30
+msgid "Hubei / &#28246;&#21271;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:31
+msgid "Hunan / &#28246;&#21335;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:32
+msgid "Guangdong / &#24191;&#19996;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:33
+msgid "Guangxi Zhuang / &#24191;&#35199;&#22766;&#26063;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:34
+msgid "Hainan / &#28023;&#21335;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:35
+msgid "Chongqing / &#37325;&#24198;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:36
+msgid "Sichuan / &#22235;&#24029;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:37
+msgid "Guizhou / &#36149;&#24030;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:38
+msgid "Shaanxi / &#38485;&#35199;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:39
+msgid "Gansu / &#29976;&#32899;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:40
+msgid "Qinghai / &#38738;&#28023;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:41
+msgid "Ningxia Hui / &#23425;&#22799;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:42
+msgid "Macau / &#28595;&#38376;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:43
+msgid "Tibet / &#35199;&#34255;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/CN.php:44
+msgid "Xinjiang / &#26032;&#30086;"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:15
+msgid "Albacete"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:16
+msgid "Alicante"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:17
+msgid "Almer&iacute;a"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:18
+msgid "Asturias"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:20
+msgid "Badajoz"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:21
+msgid "Baleares"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:22
+msgid "Barcelona"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:23
+msgid "Burgos"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:26
+msgid "Cantabria"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:28
+msgid "Ceuta"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:29
+msgid "Ciudad Real"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:31
+msgid "Cuenca"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:32
+msgid "Girona"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:33
+msgid "Granada"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:34
+msgid "Guadalajara"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:36
+msgid "Huelva"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:37
+msgid "Huesca"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:39
+msgid "La Rioja"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:40
+msgid "Las Palmas"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:42
+msgid "Lleida"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:43
+msgid "Lugo"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:44
+msgid "Madrid"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:45
+msgid "M&aacute;laga"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:46
+msgid "Melilla"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:47
+msgid "Murcia"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:48
+msgid "Navarra"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:49
+msgid "Ourense"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:50
+msgid "Palencia"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:51
+msgid "Pontevedra"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:52
+msgid "Salamanca"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:53
+msgid "Santa Cruz de Tenerife"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:54
+msgid "Segovia"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:55
+msgid "Sevilla"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:56
+msgid "Soria"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:57
+msgid "Tarragona"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:58
+msgid "Teruel"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:59
+msgid "Toledo"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:60
+msgid "Valencia"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:61
+msgid "Valladolid"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:62
+msgid "Vizcaya"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:63
+msgid "Zamora"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ES.php:64
+msgid "Zaragoza"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:13
+msgid "Bács-Kiskun"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:14
+msgid "Békés"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:15
+msgid "Baranya"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:16
+msgid "Borsod-Abaúj-Zemplén"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:17
+msgid "Budapest"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:18
+msgid "Csongrád"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:19
+msgid "Fejér"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:20
+msgid "Győr-Moson-Sopron"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:21
+msgid "Hajdú-Bihar"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:22
+msgid "Heves"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:23
+msgid "Jász-Nagykun-Szolnok"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:24
+msgid "Komárom-Esztergom"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:25
+msgid "Nógrád"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:26
+msgid "Pest"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:27
+msgid "Somogy"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:28
+msgid "Szabolcs-Szatmár-Bereg"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:29
+msgid "Tolna"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:30
+msgid "Vas"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:31
+msgid "Veszprém"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HU.php:32
+msgid "Zala"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:13 i18n/states/NZ.php:14
+msgid "Auckland"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:14 i18n/states/NZ.php:16
+msgid "Bay of Plenty"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:15 i18n/states/NZ.php:25
+msgid "Canterbury"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:16 i18n/states/NZ.php:18
+msgid "Hawke&rsquo;s Bay"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:17 i18n/states/NZ.php:19
+msgid "Manawatu-Wanganui"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:18 i18n/states/NZ.php:22
+msgid "Marlborough"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:19 i18n/states/NZ.php:21
+msgid "Nelson"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:20 i18n/states/NZ.php:13
+msgid "Northland"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:21 i18n/states/NZ.php:26
+msgid "Otago"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:22 i18n/states/NZ.php:27
+msgid "Southland"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:23 i18n/states/NZ.php:17
+msgid "Taranaki"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:24 i18n/states/NZ.php:23
+msgid "Tasman"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:25 i18n/states/NZ.php:15
+msgid "Waikato"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:26 i18n/states/NZ.php:20
+msgid "Wellington"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/HZ.php:27 i18n/states/NZ.php:24
+msgid "West Coast"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:13
+msgid "Daerah Istimewa Aceh"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:14
+msgid "Sumatera Utara"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:15
+msgid "Sumatera Barat"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:16
+msgid "Riau"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:17
+msgid "Kepulauan Riau"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:18
+msgid "Jambi"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:19
+msgid "Sumatera Selatan"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:20
+msgid "Bangka Belitung"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:21
+msgid "Bengkulu"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:22
+msgid "Lampung"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:23
+msgid "DKI Jakarta"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:24
+msgid "Jawa Barat"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:25
+msgid "Banten"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:26
+msgid "Jawa Tengah"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:27
+msgid "Jawa Timur"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:28
+msgid "Daerah Istimewa Yogyakarta"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:29
+msgid "Bali"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:30
+msgid "Nusa Tenggara Barat"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:31
+msgid "Nusa Tenggara Timur"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:32
+msgid "Kalimantan Barat"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:33
+msgid "Kalimantan Tengah"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:34
+msgid "Kalimantan Timur"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:35
+msgid "Kalimantan Selatan"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:36
+msgid "Kalimantan Utara"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:37
+msgid "Sulawesi Utara"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:38
+msgid "Sulawesi Tengah"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:39
+msgid "Sulawesi Tenggara"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:40
+msgid "Sulawesi Barat"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:41
+msgid "Sulawesi Selatan"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:42
+msgid "Gorontalo"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:43
+msgid "Maluku"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:44
+msgid "Maluku Utara"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:45
+msgid "Papua"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ID.php:46
+msgid "Papua Barat"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:13
+msgid "Andra Pradesh"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:14
+msgid "Arunachal Pradesh"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:15
+msgid "Assam"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:16
+msgid "Bihar"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:17
+msgid "Chhattisgarh"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:18
+msgid "Goa"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:19
+msgid "Gujarat"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:20
+msgid "Haryana"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:21
+msgid "Himachal Pradesh"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:22
+msgid "Jammu and Kashmir"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:23
+msgid "Jharkhand"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:24
+msgid "Karnataka"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:25
+msgid "Kerala"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:26
+msgid "Madhya Pradesh"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:27
+msgid "Maharashtra"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:28
+msgid "Manipur"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:30
+msgid "Mizoram"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:31
+msgid "Nagaland"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:32
+msgid "Orissa"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:33
+msgid "Punjab"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:34
+msgid "Rajasthan"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:35
+msgid "Sikkim"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:36
+msgid "Tamil Nadu"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:37
+msgid "Tripura"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:38
+msgid "Uttaranchal"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:39
+msgid "Uttar Pradesh"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:40
+msgid "West Bengal"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:41
+msgid "Andaman and Nicobar Islands"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:42
+msgid "Chandigarh"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:43
+msgid "Dadar and Nagar Haveli"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:44
+msgid "Daman and Diu"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:45
+msgid "Delhi"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:46
+msgid "Lakshadeep"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/IN.php:47
+msgid "Pondicherry (Puducherry)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:13
+msgid "Johor"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:14
+msgid "Kedah"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:15
+msgid "Kelantan"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:16
+msgid "Melaka"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:17
+msgid "Negeri Sembilan"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:18
+msgid "Pahang"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:19
+msgid "Perak"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:20
+msgid "Perlis"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:21
+msgid "Pulau Pinang"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:22
+msgid "Sabah"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:23
+msgid "Sarawak"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:24
+msgid "Selangor"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:25
+msgid "Terengganu"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:26
+msgid "W.P. Kuala Lumpur"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:27
+msgid "W.P. Labuan"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/MY.php:28
+msgid "W.P. Putrajaya"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:13
+msgid ""
+"Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;"
+"&#3636;&#3597;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:14
+msgid "Ang Thong (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:15
+msgid ""
+"Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;"
+"&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:16
+msgid ""
+"Bangkok (&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;"
+"&#3634;&#3609;&#3588;&#3619;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:17
+msgid "Bueng Kan (&#3610;&#3638;&#3591;&#3585;&#3634;&#3628;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:18
+msgid ""
+"Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:19
+msgid ""
+"Chachoengsao (&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;"
+"&#3634;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:20
+msgid "Chai Nat (&#3594;&#3633;&#3618;&#3609;&#3634;&#3607;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:21
+msgid "Chaiyaphum (&#3594;&#3633;&#3618;&#3616;&#3641;&#3617;&#3636;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:22
+msgid "Chanthaburi (&#3592;&#3633;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:23
+msgid ""
+"Chiang Mai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:24
+msgid "Chiang Rai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3619;&#3634;&#3618;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:25
+msgid "Chonburi (&#3594;&#3621;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:26
+msgid "Chumphon (&#3594;&#3640;&#3617;&#3614;&#3619;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:27
+msgid ""
+"Kalasin (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:28
+msgid ""
+"Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;"
+"&#3619;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:29
+msgid ""
+"Kanchanaburi (&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;&#3637;"
+")"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:30
+msgid "Khon Kaen (&#3586;&#3629;&#3609;&#3649;&#3585;&#3656;&#3609;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:31
+msgid "Krabi (&#3585;&#3619;&#3632;&#3610;&#3637;&#3656;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:32
+msgid "Lampang (&#3621;&#3635;&#3611;&#3634;&#3591;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:33
+msgid "Lamphun (&#3621;&#3635;&#3614;&#3641;&#3609;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:34
+msgid "Loei (&#3648;&#3621;&#3618;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:35
+msgid "Lopburi (&#3621;&#3614;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:36
+msgid ""
+"Mae Hong Son (&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;"
+"&#3609;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:37
+msgid ""
+"Maha Sarakham (&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;"
+"&#3617;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:38
+msgid "Mukdahan (&#3617;&#3640;&#3585;&#3604;&#3634;&#3627;&#3634;&#3619;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:39
+msgid "Nakhon Nayok (&#3609;&#3588;&#3619;&#3609;&#3634;&#3618;&#3585;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:40
+msgid "Nakhon Pathom (&#3609;&#3588;&#3619;&#3611;&#3600;&#3617;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:41
+msgid "Nakhon Phanom (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:42
+msgid ""
+"Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;"
+"&#3617;&#3634;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:43
+msgid ""
+"Nakhon Sawan (&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;&#3660;"
+")"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:44
+msgid ""
+"Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;"
+"&#3619;&#3617;&#3619;&#3634;&#3594;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:45
+msgid "Nan (&#3609;&#3656;&#3634;&#3609;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:46
+msgid "Narathiwat (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3626;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:47
+msgid ""
+"Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;"
+"&#3635;&#3616;&#3641;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:48
+msgid "Nong Khai (&#3627;&#3609;&#3629;&#3591;&#3588;&#3634;&#3618;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:49
+msgid "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:50
+msgid "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:51
+msgid "Pattani (&#3611;&#3633;&#3605;&#3605;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:52
+msgid "Phang Nga (&#3614;&#3633;&#3591;&#3591;&#3634;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:53
+msgid "Phatthalung (&#3614;&#3633;&#3607;&#3621;&#3640;&#3591;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:54
+msgid "Phayao (&#3614;&#3632;&#3648;&#3618;&#3634;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:55
+msgid ""
+"Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:56
+msgid "Phetchaburi (&#3648;&#3614;&#3594;&#3619;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:57
+msgid "Phichit (&#3614;&#3636;&#3592;&#3636;&#3605;&#3619;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:58
+msgid "Phitsanulok (&#3614;&#3636;&#3625;&#3603;&#3640;&#3650;&#3621;&#3585;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:59
+msgid "Phrae (&#3649;&#3614;&#3619;&#3656;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:60
+msgid "Phuket (&#3616;&#3641;&#3648;&#3585;&#3655;&#3605;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:61
+msgid ""
+"Prachin Buri (&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;"
+"&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:62
+msgid ""
+"Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;"
+"&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:63
+msgid "Ranong (&#3619;&#3632;&#3609;&#3629;&#3591;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:64
+msgid "Ratchaburi (&#3619;&#3634;&#3594;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:65
+msgid "Rayong (&#3619;&#3632;&#3618;&#3629;&#3591;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:66
+msgid "Roi Et (&#3619;&#3657;&#3629;&#3618;&#3648;&#3629;&#3655;&#3604;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:67
+msgid "Sa Kaeo (&#3626;&#3619;&#3632;&#3649;&#3585;&#3657;&#3623;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:68
+msgid "Sakon Nakhon (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:69
+msgid ""
+"Samut Prakan (&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;"
+"&#3634;&#3619;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:70
+msgid ""
+"Samut Sakhon (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;&#3619;"
+")"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:71
+msgid ""
+"Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;"
+"&#3619;&#3634;&#3617;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:72
+msgid "Saraburi (&#3626;&#3619;&#3632;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:73
+msgid "Satun (&#3626;&#3605;&#3641;&#3621;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:74
+msgid ""
+"Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:75
+msgid "Sisaket (&#3624;&#3619;&#3637;&#3626;&#3632;&#3648;&#3585;&#3625;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:76
+msgid "Songkhla (&#3626;&#3591;&#3586;&#3621;&#3634;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:77
+msgid "Sukhothai (&#3626;&#3640;&#3650;&#3586;&#3607;&#3633;&#3618;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:78
+msgid ""
+"Suphan Buri (&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;"
+"&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:79
+msgid ""
+"Surat Thani (&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;"
+"&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:80
+msgid "Surin (&#3626;&#3640;&#3619;&#3636;&#3609;&#3607;&#3619;&#3660;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:81
+msgid "Tak (&#3605;&#3634;&#3585;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:82
+msgid "Trang (&#3605;&#3619;&#3633;&#3591;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:83
+msgid "Trat (&#3605;&#3619;&#3634;&#3604;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:84
+msgid ""
+"Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;"
+"&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:85
+msgid "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:86
+msgid ""
+"Uthai Thani (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:87
+msgid ""
+"Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:88
+msgid "Yala (&#3618;&#3632;&#3621;&#3634;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/TH.php:89
+msgid "Yasothon (&#3618;&#3650;&#3626;&#3608;&#3619;)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/US.php:64
+msgid "Armed Forces (AA)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/US.php:65
+msgid "Armed Forces (AE)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/US.php:66
+msgid "Armed Forces (AP)"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/US.php:72
+msgid "US Virgin Islands"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ZA.php:13
+msgid "Eastern Cape"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ZA.php:15
+msgid "Gauteng"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ZA.php:16
+msgid "KwaZulu-Natal"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ZA.php:17
+msgid "Limpopo"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ZA.php:18
+msgid "Mpumalanga"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ZA.php:19
+msgid "Northern Cape"
+msgstr ""
+
+# @ woocommerce
+#: i18n/states/ZA.php:21
+msgid "Western Cape"
+msgstr ""
 
 # @ woocommerce
 #: woocommerce-ajax.php:119
@@ -147,144 +1808,9 @@ msgid "Brazilian Real"
 msgstr "Brazilian Real"
 
 # @ woocommerce
-#: woocommerce-core-functions.php:715
-msgid "Canadian Dollars"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:716
-msgid "Chinese Yuan"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:717
-msgid "Czech Koruna"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:718
-msgid "Danish Krone"
-msgstr ""
-
-# @ woocommerce
 #: woocommerce-core-functions.php:719
 msgid "Euros"
 msgstr "Euros"
-
-# @ woocommerce
-#: woocommerce-core-functions.php:720
-msgid "Hong Kong Dollar"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:721
-msgid "Hungarian Forint"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:722
-msgid "Indonesia Rupiah"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:723
-msgid "Indian Rupee"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:724
-msgid "Israeli Shekel"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:725
-msgid "Japanese Yen"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:726
-msgid "South Korean Won"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:727
-msgid "Malaysian Ringgits"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:728
-msgid "Mexican Peso"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:729
-msgid "Norwegian Krone"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:730
-msgid "New Zealand Dollar"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:731
-msgid "Philippine Pesos"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:732
-msgid "Polish Zloty"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:733
-msgid "Pounds Sterling"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:734
-msgid "Romanian Leu"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:735
-msgid "Russian Ruble"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:736
-msgid "Singapore Dollar"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:737
-msgid "South African rand"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:738
-msgid "Swedish Krona"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:739
-msgid "Swiss Franc"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:740
-msgid "Taiwan New Dollars"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:741
-msgid "Thai Baht"
-msgstr ""
-
-# @ woocommerce
-#: woocommerce-core-functions.php:742
-msgid "Turkish Lira"
-msgstr ""
 
 # @ woocommerce
 #: woocommerce-core-functions.php:743
@@ -378,13 +1904,13 @@ msgstr ""
 "<br><br>El artículo <strong>&quot;%s&quot;</strong> fué añadido a su compra "
 "con éxito. <br>Puede <strong>seguir viendo nuestro catálogo</strong> o "
 "<strong>ver el pedido</strong> y modificar las cantidades de un determinado "
-"artículo ingresando la cantidad deseada en la columna correspondiente. "
-"<br>Una vez modificadas las cantidades, presione el botón "
-"<strong>actualizar</strong>. <br>Si desea eliminar algo que ya no desee, "
-"presione el icono asociado a cada producto. También puede aplicar un cupón "
-"de descuento si lo tiene. <br>Una vez que haya terminado de seleccionar los "
-"artículos de su compra, al presionar el botón <strong>Finalizar Compra</"
-"strong> podrá ingresar sus datos y seleccionar la forma de pago.<br>"
+"artículo ingresando la cantidad deseada en la columna correspondiente. <br>"
+"Una vez modificadas las cantidades, presione el botón <strong>"
+"actualizar</strong>. <br>Si desea eliminar algo que ya no desee, presione el "
+"icono asociado a cada producto. También puede aplicar un cupón de descuento "
+"si lo tiene. <br>Una vez que haya terminado de seleccionar los artículos de "
+"su compra, al presionar el botón <strong>Finalizar Compra</strong> podrá "
+"ingresar sus datos y seleccionar la forma de pago.<br>"
 
 # @ woocommerce
 #: woocommerce-functions.php:499
@@ -729,11 +2255,6 @@ msgid "Settings"
 msgstr "Configuración"
 
 # @ woocommerce
-#: woocommerce.php:171 admin/includes/welcome.php:154
-msgid "Docs"
-msgstr ""
-
-# @ woocommerce
 #: woocommerce.php:172
 msgid "Premium Support"
 msgstr "Soporte Premium"
@@ -990,8 +2511,7 @@ msgstr "Productos"
 # @ woocommerce
 #: woocommerce.php:986 admin/woocommerce-admin-dashboard.php:84
 #: admin/woocommerce-admin-functions.php:200
-#: admin/woocommerce-admin-init.php:766
-#: admin/woocommerce-admin-reports.php:997
+#: admin/woocommerce-admin-init.php:766 admin/woocommerce-admin-reports.php:997
 #: admin/woocommerce-admin-reports.php:1095 templates/cart/cart.php:28
 #: templates/checkout/form-pay.php:19 templates/checkout/review-order.php:21
 #: templates/emails/admin-new-order.php:22
@@ -1377,11 +2897,11 @@ msgid ""
 "attribute terms can be defined from this section. If you plan on using an "
 "attribute for variations use <strong>select</strong>."
 msgstr ""
-"Determina la forma de seleccionar los atributos de los productos: "
-"<br><strong>Texto</strong> permite la entrada manual a través de la página "
-"del producto, mientras que los terminos <strong>Seleccionar</strong> "
-"atributos pueden definirse en esta sección. Si usted planea usar un atributo "
-"de las variaciones use <strong> seleccionar </strong>."
+"Determina la forma de seleccionar los atributos de los productos: <br>"
+"<strong>Texto</strong> permite la entrada manual a través de la página del "
+"producto, mientras que los terminos <strong>Seleccionar</strong> atributos "
+"pueden definirse en esta sección. Si usted planea usar un atributo de las "
+"variaciones use <strong> seleccionar </strong>."
 
 # @ woocommerce
 #: admin/woocommerce-admin-attributes.php:272
@@ -1495,9 +3015,9 @@ msgid ""
 msgstr ""
 "Gracias por usar WooCommerce :) Si necesita ayuda para utilizar o ampliar "
 "WooCommerce por favor <a href=\"%s\"> leer la documentación</ a>. Para "
-"obtener asistencia adicional que puede utilizar la comunidad <a href=\"%s"
-"\">community forum</a> or if you have access, <a href=\"%s\">a nuestro "
-"servicio de soporte </ a>."
+"obtener asistencia adicional que puede utilizar la comunidad <a href=\"%s\">"
+"community forum</a> or if you have access, <a href=\"%s\">a nuestro servicio "
+"de soporte </ a>."
 
 # @ woocommerce
 #: admin/woocommerce-admin-content.php:31
@@ -1602,8 +3122,7 @@ msgstr "Opciones relativas al stock y eventos del stock."
 #: admin/woocommerce-admin-settings.php:186
 #: admin/post-types/writepanels/writepanel-order_data.php:352
 #: admin/settings/settings-tax-rates.php:387
-#: admin/settings/settings-tax-rates.php:475
-#: classes/class-wc-countries.php:444
+#: admin/settings/settings-tax-rates.php:475 classes/class-wc-countries.php:444
 msgid "Tax"
 msgstr "Impuestos"
 
@@ -2118,8 +3637,8 @@ msgid ""
 "Calculate line taxes? This will calculate taxes based on the customers "
 "country. If no billing/shipping is set it will use the store base country."
 msgstr ""
-"¿Calcular los impuestos en línea? Se calcularán los impuestos basados ​​en el "
-"país de los clientes. Si no hay facturación / envío se establece que "
+"¿Calcular los impuestos en línea? Se calcularán los impuestos basados ​​en "
+"el país de los clientes. Si no hay facturación / envío se establece que "
 "utilizará el país base/sede de la tienda."
 
 # @ woocommerce
@@ -2213,11 +3732,11 @@ msgstr ""
 #: admin/woocommerce-admin-init.php:678
 #, php-format
 msgid ""
-"Product scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
-"\"%2$s\">Preview Product</a>"
+"Product scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Product</a>"
 msgstr ""
-"Producto previsto: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
-"\"> Vista previa del producto </ a>"
+"Producto previsto: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">"
+" Vista previa del producto </ a>"
 
 # @ woocommerce
 #: admin/woocommerce-admin-init.php:679 admin/woocommerce-admin-init.php:694
@@ -2357,8 +3876,8 @@ msgid ""
 "Enter a custom base to use. A base <strong>must</strong> be set or WordPress "
 "will use default instead."
 msgstr ""
-"Introduzca una base personalizado para su uso. Una base por "
-"<strong>obligación</strong> WordPress usará por defecto en su lugar."
+"Introduzca una base personalizado para su uso. Una base por <strong>"
+"obligación</strong> WordPress usará por defecto en su lugar."
 
 # @ woocommerce
 #: admin/woocommerce-admin-init.php:811
@@ -2427,8 +3946,7 @@ msgstr "Mi-cuenta"
 # @ woocommerce
 #: admin/woocommerce-admin-install.php:204
 #: admin/woocommerce-admin-status.php:330
-#: assets/js/admin/editor_plugin_lang.php:18
-#: templates/checkout/thankyou.php:30
+#: assets/js/admin/editor_plugin_lang.php:18 templates/checkout/thankyou.php:30
 msgid "My Account"
 msgstr "Mi Cuenta"
 
@@ -3073,11 +4591,11 @@ msgstr "Pasarelas de Pago"
 #: admin/woocommerce-admin-settings.php:210
 #, php-format
 msgid ""
-"More functionality and gateway options available via <a href=\"%s\" target="
-"\"_blank\">WC official extensions</a>."
+"More functionality and gateway options available via <a href=\"%s\" "
+"target=\"_blank\">WC official extensions</a>."
 msgstr ""
-"Más funcionalidades y opciones disponibles a través de la pasarela <a href="
-"\"%s\" target=\"_blank\">WC official extensions</a>"
+"Más funcionalidades y opciones disponibles a través de la pasarela <a "
+"href=\"%s\" target=\"_blank\">WC official extensions</a>"
 
 # @ woocommerce
 #: admin/woocommerce-admin-settings.php:222
@@ -3150,8 +4668,7 @@ msgid "Choose countries&hellip;"
 msgstr "Elige países ..."
 
 # @ woocommerce
-#: admin/woocommerce-admin-status.php:27
-#: admin/woocommerce-admin-status.php:736
+#: admin/woocommerce-admin-status.php:27 admin/woocommerce-admin-status.php:736
 msgid "Tools"
 msgstr "Herramientas"
 
@@ -3219,8 +4736,8 @@ msgstr "WP Límite de memoria"
 #: admin/woocommerce-admin-status.php:114
 #, php-format
 msgid ""
-"%s - We recommend setting memory to at least 64MB. See: <a href=\"%s"
-"\">Increasing memory allocated to PHP</a>"
+"%s - We recommend setting memory to at least 64MB. See: <a href=\"%s\">"
+"Increasing memory allocated to PHP</a>"
 msgstr ""
 "%s - Es recomendable configurar la memoria para al menos 64 MB. Véase: <a "
 "href=\"%s\"> Aumento de memoria asignado a PHP</ a>"
@@ -3423,8 +4940,8 @@ msgstr "Sede Tienda"
 
 # @ woocommerce
 #: admin/woocommerce-admin-status.php:322
-#: assets/js/admin/editor_plugin_lang.php:22
-#: templates/checkout/thankyou.php:28 templates/myaccount/my-orders.php:71
+#: assets/js/admin/editor_plugin_lang.php:22 templates/checkout/thankyou.php:28
+#: templates/myaccount/my-orders.php:71
 msgid "Pay"
 msgstr "Pago"
 
@@ -3698,9 +5215,9 @@ msgid ""
 "can then be used by certain shipping methods to provide different rates to "
 "different products."
 msgstr ""
-"Los medios de envío se puede utilizar para agrupar productos de tipo "
-"similar. Estos grupos se pueden utilizar por los métodos de envío para "
-"proporcionar ciertos tipos diferentes de productos diferentes."
+"Los medios de envío se puede utilizar para agrupar productos de tipo similar."
+" Estos grupos se pueden utilizar por los métodos de envío para proporcionar "
+"ciertos tipos diferentes de productos diferentes."
 
 # @ woocommerce
 #: admin/woocommerce-admin-taxonomies.php:297 admin/post-types/product.php:86
@@ -3721,8 +5238,7 @@ msgid "Billing Address"
 msgstr "Dirección de Facturación:"
 
 # @ woocommerce
-#: admin/woocommerce-admin-users.php:27
-#: templates/checkout/form-shipping.php:35
+#: admin/woocommerce-admin-users.php:27 templates/checkout/form-shipping.php:35
 #: templates/myaccount/form-edit-address.php:27
 #: templates/myaccount/my-address.php:20 templates/order/order-details.php:130
 msgid "Shipping Address"
@@ -3899,8 +5415,8 @@ msgstr "Importar las tasas de impuestos"
 #: admin/importers/tax-rates-importer.php:286
 msgid ""
 "Hi there! Upload a CSV file containing tax rates to import the contents into "
-"your shop. Choose a .csv file to upload, then click \"Upload file and import"
-"\"."
+"your shop. Choose a .csv file to upload, then click \"Upload file and "
+"import\"."
 msgstr ""
 "¡Hola! Subir un archivo CSV que contiene las tasas de impuestos para "
 "importar el contenido en su tienda. Elija un archivo. Csv para cargar y haga "
@@ -4247,8 +5763,8 @@ msgstr "Nuevas clases de productos"
 #: admin/includes/welcome.php:267
 msgid ""
 "The product classes have been rewritten and are now factory based. Much more "
-"extendable, and easier to query products using the new <code>get_product()</"
-"code> function."
+"extendable, and easier to query products using the new <code>get_product()"
+"</code> function."
 msgstr ""
 "Las clases de productos se han reescrito y ahora se basan en los ajustes de "
 "fábrica. Mucho más extensible y fácil para la consuta de productos es "
@@ -4332,9 +5848,9 @@ msgstr "Mejor manejo de stock"
 # @ woocommerce
 #: admin/includes/welcome.php:302
 msgid ""
-"We have added an option to hold stock for unpaid orders (defaults to "
-"60mins). When this time limit is reached, and the order is not paid for, "
-"stock is released and the order is cancelled."
+"We have added an option to hold stock for unpaid orders (defaults to 60mins)."
+" When this time limit is reached, and the order is not paid for, stock is "
+"released and the order is cancelled."
 msgstr ""
 "Hemos añadido una opción para mantener en stock los pedidos pendientes de "
 "pago (por defecto a 60min). Cuando este plazo se alcanza, y el pedido no se "
@@ -4381,13 +5897,14 @@ msgstr "Ir a la configuración de WooCommerce."
 msgid ""
 "WooCommerce is developed and maintained by a worldwide team of passionate "
 "individuals and backed by an awesome developer community. Want to see your "
-"name? <a href=\"https://github.com/woothemes/woocommerce/blob/master/"
-"CONTRIBUTING.md\">Contribute to WooCommerce</a>."
+"name? <a href=\"https://github."
+"com/woothemes/woocommerce/blob/master/CONTRIBUTING.md\">Contribute to "
+"WooCommerce</a>."
 msgstr ""
 "WooCommerce está desarrollado y mantenido por un equipo de personas "
 "apasionadas en todo el mundo y está respaldado por una comunidad de "
-"desarrolladores impresionante. ¿Quiere ver su nombre? <a href=\"https://"
-"github.com/woothemes/woocommerce/blob/master/CONTRIBUTING.md\">  Participe "
+"desarrolladores impresionante. ¿Quiere ver su nombre? <a href=\"https:"
+"//github.com/woothemes/woocommerce/blob/master/CONTRIBUTING.md\">  Participe "
 "en WooCommerce </ a>."
 
 # @ woocommerce
@@ -4865,11 +6382,6 @@ msgid "Unpublished"
 msgstr "Inédito"
 
 # @ woocommerce
-#: admin/post-types/shop_order.php:133
-msgid "Y/m/d g:i:s A"
-msgstr ""
-
-# @ woocommerce
 #: admin/post-types/shop_order.php:139
 #, php-format
 msgid "%s ago"
@@ -5223,8 +6735,8 @@ msgid ""
 "shipping method</a> must be enabled with the \"must use coupon\" setting "
 "checked."
 msgstr ""
-"Marque esta casilla si el cupón garantiza el envío gratis. El <a href=\"%s"
-"\">Método de Envío Gratuito</a> debe estar habilitada con la configuración "
+"Marque esta casilla si el cupón garantiza el envío gratis. El <a href=\"%s\">"
+"Método de Envío Gratuito</a> debe estar habilitada con la configuración "
 "seleccionada:\"Utilizar Cupones\"."
 
 # @ woocommerce
@@ -5817,8 +7329,8 @@ msgstr "Aquí se definen las variaciones para productos."
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:64
 msgid ""
-"Before adding variations, add and save some attributes on the "
-"<strong>Attributes</strong> tab."
+"Before adding variations, add and save some attributes on the <strong>"
+"Attributes</strong> tab."
 msgstr ""
 "Antes de añadir variaciones, añadir y guardar algunos atributos de los "
 "<strong> Atributos </strong>."
@@ -6540,14 +8052,14 @@ msgstr "Se utiliza para un texto determinado y aparte para texto pequeño ."
 #: admin/settings/settings-frontend-styles.php:51
 msgid ""
 "To edit colours <code>woocommerce/assets/css/woocommerce-base.less</code> "
-"and <code>woocommerce.css</code> need to be writable. See <a href=\"http://"
-"codex.wordpress.org/Changing_File_Permissions\">the Codex</a> for more "
+"and <code>woocommerce.css</code> need to be writable. See <a href=\"http:"
+"//codex.wordpress.org/Changing_File_Permissions\">the Codex</a> for more "
 "information."
 msgstr ""
-"Para editar los colores <code>woocommerce/assets/css/woocommerce-base.less</"
-"code> y <code> woocommerce.css </code> debe tener permisos de escritura. Ver "
-"<a href=\"http://codex.wordpress.org/Changing_File_Permissions\"> el Codex </"
-"a> para obtener más información."
+"Para editar los colores <code>woocommerce/assets/css/woocommerce-base."
+"less</code> y <code> woocommerce.css </code> debe tener permisos de "
+"escritura. Ver <a href=\"http://codex.wordpress."
+"org/Changing_File_Permissions\"> el Codex </a> para obtener más información."
 
 # @ woocommerce
 #: admin/settings/settings-init.php:18
@@ -6791,9 +8303,9 @@ msgid ""
 msgstr ""
 "Forzar descargas mantendrá las URLs ocultas, pero algunos servidores podrían "
 "brindar la descarga de archivos grandes de forma poco fiable. Si está "
-"soportado, puede usar <code>X-Accel-Redirect</code> / <code>X-Sendfile </"
-"code>(Realiza una redirección interna a la URI especificada) para servir las "
-"descargas (el servidor requiere <code>mod_xsendfile</code>)."
+"soportado, puede usar <code>X-Accel-Redirect</code> / <code>X-Sendfile "
+"</code>(Realiza una redirección interna a la URI especificada) para servir "
+"las descargas (el servidor requiere <code>mod_xsendfile</code>)."
 
 # @ woocommerce
 #: admin/settings/settings-init.php:248
@@ -6833,8 +8345,8 @@ msgstr "Permitir el acceso a los productos de descarga después del pago"
 # @ woocommerce
 #: admin/settings/settings-init.php:269
 msgid ""
-"Enable this option to grant access to downloads when orders are \"processing"
-"\", rather than \"completed\"."
+"Enable this option to grant access to downloads when orders are "
+"\"processing\", rather than \"completed\"."
 msgstr ""
 "Active esta opción para permitir el acceso a las descargas cuando los "
 "pedidos se están 'procesado', en lugar de 'completado'."
@@ -7127,7 +8639,7 @@ msgstr "Aquí se establece lo que se muestra en el Archivo de la categoría."
 #: templates/single-product/add-to-cart/simple.php:44
 #: templates/single-product/add-to-cart/variable.php:83
 msgid "Add to cart"
-msgstr "Incorporar a su compra"
+msgstr "Agregar a Bolsa"
 
 # @ woocommerce
 #: admin/settings/settings-init.php:507
@@ -7371,8 +8883,8 @@ msgstr ""
 "Esta configuración afecta a las dimensiones reales de las imágenes en su "
 "catálogo - la pantalla en el front-end (la web que el cliente ve)  también "
 "se verán afectados por los estilos CSS. Después de cambiar a esta "
-"configuración puede que tenga que  <a href=\"%s\">Regenerar la miniaturas</"
-"a>."
+"configuración puede que tenga que  <a href=\"%s\">Regenerar la miniaturas</a>"
+"."
 
 # @ woocommerce
 #: admin/settings/settings-init.php:687
@@ -7434,9 +8946,9 @@ msgid ""
 "Hold stock (for unpaid orders) for x minutes. When this limit is reached, "
 "the pending order will be cancelled. Leave blank to disable."
 msgstr ""
-"MANTENIMIENTO DEL STOCK (para los pedidos pendientes de pago) para x "
-"minutos. Cuando se alcanza este límite, el pedido pendiente será cancelado. "
-"Dejar en blanco para desactivar."
+"MANTENIMIENTO DEL STOCK (para los pedidos pendientes de pago) para x minutos."
+" Cuando se alcanza este límite, el pedido pendiente será cancelado. Dejar en "
+"blanco para desactivar."
 
 # @ woocommerce
 #: admin/settings/settings-init.php:759
@@ -7759,14 +9271,15 @@ msgstr "Plantilla de E-mail"
 msgid ""
 "This section lets you customise the WooCommerce emails. <a href=\"%s\" "
 "target=\"_blank\">Click here to preview your email template</a>. For more "
-"advanced control copy <code>woocommerce/templates/emails/</code> to "
-"<code>yourtheme/woocommerce/emails/</code>."
+"advanced control copy <code>woocommerce/templates/emails/</code> to <code>"
+"yourtheme/woocommerce/emails/</code>."
 msgstr ""
 "Esta sección le permite personalizar los mensajes de correo electrónico de "
 "su tienda Online WooCommerce. <a href=\"%s\" target=\"_blank\"> Haga clic "
 "aquí para obtener una vista previa de la plantilla de correo electrónico </ "
-"a>. Para obtener más ejemplar de control avanzado <code>woocommerce/"
-"templates/emails/</code> para <code>yourtheme/woocommerce/emails/</code>."
+"a>. Para obtener más ejemplar de control avanzado <code>"
+"woocommerce/templates/emails/</code> para <code>"
+"yourtheme/woocommerce/emails/</code>."
 
 # @ woocommerce
 #: admin/settings/settings-init.php:1056
@@ -7781,8 +9294,8 @@ msgid ""
 "image using the <a href=\"%s\">media uploader</a>."
 msgstr ""
 "Ingresa la dirección URL de una imagen que desea mostrar en el encabezado "
-"del correo electrónico. Suba su imagen con el <a href=\"%s\">media uploader</"
-"a>."
+"del correo electrónico. Suba su imagen con el <a href=\"%s\">media "
+"uploader</a>."
 
 # @ woocommerce
 #: admin/settings/settings-init.php:1065
@@ -7809,8 +9322,8 @@ msgstr "Color base:"
 # @ woocommerce
 #: admin/settings/settings-init.php:1075
 msgid ""
-"The base colour for WooCommerce email templates. Default <code>#557da1</"
-"code>."
+"The base colour for WooCommerce email templates. Default <code>#557da1</code>"
+"."
 msgstr ""
 "El color base de plantillas de correo electrónico WooCommerce. Por defecto "
 "<code>#557da1</code>."
@@ -7823,8 +9336,8 @@ msgstr "Color del fondo:"
 # @ woocommerce
 #: admin/settings/settings-init.php:1084
 msgid ""
-"The background colour for WooCommerce email templates. Default "
-"<code>#f5f5f5</code>."
+"The background colour for WooCommerce email templates. Default <code>"
+"#f5f5f5</code>."
 msgstr ""
 "El color de fondo de las plantillas de correo electrónico WooCommerce. Por "
 "defecto <code>#f5f5f5</code>."
@@ -7894,8 +9407,9 @@ msgid ""
 "Define tax rates for countries and states below. <a href=\"%s\">See here</a> "
 "for available alpha-2 country codes."
 msgstr ""
-"Definir los tipos impositivos de los países y estados continuación. <a href="
-"\"%s\">ver aquí</a> para obtener los códigos alpha-2 del país disponibles."
+"Definir los tipos impositivos de los países y estados continuación. <a "
+"href=\"%s\">ver aquí</a> para obtener los códigos alpha-2 del país "
+"disponibles."
 
 # @ woocommerce
 #: admin/settings/settings-tax-rates.php:36
@@ -7936,8 +9450,8 @@ msgid ""
 msgstr ""
 "Código postal de esta regla. Separar múltiples valores con punto y coma (;). "
 "Dejar en blanco para aplicar a todas las áreas. Los comodines (*) pueden ser "
-"utilizados.Los rangos para los códigos postales numéricos (por ejemplo, "
-"12.345 a 12350) serán expandidos\n"
+"utilizados.Los rangos para los códigos postales numéricos (por ejemplo, 12."
+"345 a 12350) serán expandidos\n"
 "en códigos postales individuales."
 
 # @ woocommerce
@@ -8148,8 +9662,8 @@ msgid ""
 "Please try again in %d minutes or edit your cart and try again. We apologise "
 "for any inconvenience caused."
 msgstr ""
-"Lo sentimos, no tenemos suficientes \"%s\" en stock para completar su "
-"pedido. Por favor, edite su carrito y vuelva a intentarlo en %d minutos. Nos "
+"Lo sentimos, no tenemos suficientes \"%s\" en stock para completar su pedido."
+" Por favor, edite su carrito y vuelva a intentarlo en %d minutos. Nos "
 "disculpamos por cualquier inconveniente causado."
 
 # @ woocommerce
@@ -8159,9 +9673,9 @@ msgid ""
 "Sorry, \"%s\" is not in stock. Please edit your cart and try again. We "
 "apologise for any inconvenience caused."
 msgstr ""
-"Lo sentimos, no tenemos suficientes \"%s\" en stock para completar su "
-"pedido. Por favor, edite su carrito y vuelva a intentarlo. Nos disculpamos "
-"por cualquier inconveniente causado."
+"Lo sentimos, no tenemos suficientes \"%s\" en stock para completar su pedido."
+" Por favor, edite su carrito y vuelva a intentarlo. Nos disculpamos por "
+"cualquier inconveniente causado."
 
 # @ woocommerce
 #: classes/class-wc-cart.php:846
@@ -8474,11 +9988,6 @@ msgid "Belgium"
 msgstr "Belgium"
 
 # @ woocommerce
-#: classes/class-wc-countries.php:58
-msgid "Belau"
-msgstr ""
-
-# @ woocommerce
 #: classes/class-wc-countries.php:59
 msgid "Belize"
 msgstr "Belize"
@@ -8652,11 +10161,6 @@ msgstr "Croatia"
 #: classes/class-wc-countries.php:93
 msgid "Cuba"
 msgstr "Cuba"
-
-# @ woocommerce
-#: classes/class-wc-countries.php:94
-msgid "Cura&Ccedil;ao"
-msgstr ""
 
 # @ woocommerce
 #: classes/class-wc-countries.php:95
@@ -8844,11 +10348,6 @@ msgid "Haiti"
 msgstr "Haiti"
 
 # @ woocommerce
-#: classes/class-wc-countries.php:132
-msgid "Heard Island and McDonald Islands"
-msgstr ""
-
-# @ woocommerce
 #: classes/class-wc-countries.php:133
 msgid "Honduras"
 msgstr "Honduras"
@@ -8887,11 +10386,6 @@ msgstr "Iran"
 #: classes/class-wc-countries.php:140
 msgid "Iraq"
 msgstr "Iraq"
-
-# @ woocommerce
-#: classes/class-wc-countries.php:141
-msgid "Republic of Ireland"
-msgstr ""
 
 # @ woocommerce
 #: classes/class-wc-countries.php:142
@@ -9294,11 +10788,6 @@ msgid "Saint Martin (French part)"
 msgstr "Saint Martin (French part)"
 
 # @ woocommerce
-#: classes/class-wc-countries.php:222
-msgid "Saint Martin (Dutch part)"
-msgstr ""
-
-# @ woocommerce
 #: classes/class-wc-countries.php:223
 msgid "Saint Pierre and Miquelon"
 msgstr "Saint Pierre and Miquelon"
@@ -9382,11 +10871,6 @@ msgstr "South Georgia/Sandwich Islands"
 #: classes/class-wc-countries.php:239
 msgid "South Korea"
 msgstr "South Korea"
-
-# @ woocommerce
-#: classes/class-wc-countries.php:240
-msgid "South Sudan"
-msgstr ""
 
 # @ woocommerce
 #: classes/class-wc-countries.php:241
@@ -9567,11 +11051,6 @@ msgstr "Wallis and Futuna"
 #: classes/class-wc-countries.php:276
 msgid "Western Sahara"
 msgstr "Western Sahara"
-
-# @ woocommerce
-#: classes/class-wc-countries.php:277
-msgid "Western Samoa"
-msgstr ""
 
 # @ woocommerce
 #: classes/class-wc-countries.php:278
@@ -10055,13 +11534,13 @@ msgstr "¿Estás seguro que quieres borrar este atributo?"
 # @ woocommerce
 #: classes/abstracts/abstract-wc-product.php:33
 msgid ""
-"The <code>WC_Product</code> class is now abstract. Use <code>get_product()</"
-"code> to instantiate an instance of a product instead of calling this class "
-"directly."
+"The <code>WC_Product</code> class is now abstract. Use <code>get_product()"
+"</code> to instantiate an instance of a product instead of calling this "
+"class directly."
 msgstr ""
-"El <code> WC_Product </ code> es ahora abstracta. Utilice  <code>get_product"
-"()</code> para crear una instancia de un producto en lugar de llamar a esta "
-"clase directamente."
+"El <code> WC_Product </ code> es ahora abstracta. Utilice  <code>"
+"get_product()</code> para crear una instancia de un producto en lugar de "
+"llamar a esta clase directamente."
 
 # @ woocommerce
 #: classes/abstracts/abstract-wc-product.php:551
@@ -10191,22 +11670,22 @@ msgid ""
 "payment links."
 msgstr ""
 "Envía la factura del pedido al cliente por E-mail. Los pedidos que no hayan "
-"sido pagados incluirán en el E-mail un enlace para realizar el pago. "
-"<br><br><strong>Módulo auxiliar:</strong> Con el módulo <a href=\"http://"
-"wordpress.org/plugins/woocommerce-pdf-invoices-packing-slips/\" target="
-"\"_blank\">WooCommerce PDF Facturas y albaranes</a>, se pueden imprimir "
-"facturas y notas de entrega con las políticas de devoluciones, nombre, "
-"dirección etc. para los pedidos de nuestra tienda. En el editor de pedidos "
-"'Acciones' aparecerán los botones que posibilitan en una ventana emergente "
-"su representación gráfica y la impresión de la factura o del albarán de "
-"entrega. En Woocommerce > Facturas PDF es dónde se pueden configurar sus "
-"útiles y extensas opciones de personalización, incluida la importantísima "
-"opción de generar un número secuencial y ordinal de factura a efectos de "
-"contabilidad y de declaración de impuestos, además se tiene la opción de "
-"archivarlas en papel y de enviar el fichero PDF por E-mail a nuestros "
-"clientes en esta configuración. <br><br><strong>Reenviar esta notificación:</"
-"strong><br>Al editar un pedido en la sección 'Acciones del pedido' se tiene "
-"la opción de volver a enviar esta notificación de nuevo."
+"sido pagados incluirán en el E-mail un enlace para realizar el pago. <br><br>"
+"<strong>Módulo auxiliar:</strong> Con el módulo <a href=\"http://wordpress."
+"org/plugins/woocommerce-pdf-invoices-packing-slips/\" target=\"_blank\">"
+"WooCommerce PDF Facturas y albaranes</a>, se pueden imprimir facturas y "
+"notas de entrega con las políticas de devoluciones, nombre, dirección etc. "
+"para los pedidos de nuestra tienda. En el editor de pedidos 'Acciones' "
+"aparecerán los botones que posibilitan en una ventana emergente su "
+"representación gráfica y la impresión de la factura o del albarán de entrega."
+" En Woocommerce > Facturas PDF es dónde se pueden configurar sus útiles y "
+"extensas opciones de personalización, incluida la importantísima opción de "
+"generar un número secuencial y ordinal de factura a efectos de contabilidad "
+"y de declaración de impuestos, además se tiene la opción de archivarlas en "
+"papel y de enviar el fichero PDF por E-mail a nuestros clientes en esta "
+"configuración. <br><br><strong>Reenviar esta notificación:</strong><br>Al "
+"editar un pedido en la sección 'Acciones del pedido' se tiene la opción de "
+"volver a enviar esta notificación de nuevo."
 
 # @ woocommerce
 #: classes/emails/class-wc-email-customer-invoice.php:33
@@ -10411,8 +11890,8 @@ msgstr "Destinatario(s) - Administrador"
 #: classes/emails/class-wc-email-new-order.php:123
 #, php-format
 msgid ""
-"Enter recipients (comma separated) for this email. Defaults to <code>%s</"
-"code>."
+"Enter recipients (comma separated) for this email. Defaults to <code>"
+"%s</code>."
 msgstr ""
 "Introduzca el o los destinatarios (separados por comas) para este evento. "
 "Pueden ponerse más de una cuenta de correo Pej: Administrador, Responsable "
@@ -10423,8 +11902,8 @@ msgstr ""
 #: classes/emails/class-wc-email-new-order.php:130
 #, php-format
 msgid ""
-"This controls the email subject line. Leave blank to use the default "
-"subject: <code>%s</code>."
+"This controls the email subject line. Leave blank to use the default subject:"
+" <code>%s</code>."
 msgstr ""
 "Aquí se establece la línea de asunto del correo electrónico. Dejar en blanco "
 "para usar el tema por defecto:  <code>%s</code>."
@@ -10511,9 +11990,9 @@ msgstr ""
 "la ventana \"Añada notas a su pedido\" la hora aproximada (mañana o tarde) a "
 "la que se le puede hacer la entrega, así cómo el móvil del receptor del "
 "pedido. <br>Si ya ha terminado de hacer el pago, puede hacerlo desde la "
-"página de Atención Al Cliente indicándonos su ( Pedido Nº ) cómo "
-"referencia... <br>Esperamos que quede satisfecho con su adquisición y le "
-"animamos a que nos visite de nuevo."
+"página de Atención Al Cliente indicándonos su ( Pedido Nº ) cómo referencia.."
+". <br>Esperamos que quede satisfecho con su adquisición y le animamos a que "
+"nos visite de nuevo."
 
 # @ woocommerce
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:79
@@ -10533,8 +12012,8 @@ msgstr ""
 "transferencia podría retrasarse varios días (incluso semanas), mientras los "
 "fondos se devuelven a su banco, corrige los datos y se vuelven a enviar los "
 "fondos con los datos correctos. <br>Para agilizar y ayudarnos en la entrega "
-"de su pedido, le rogamos nos facilite en la ventana \"Añada notas a su pedido"
-"\" la hora aproximada (mañana o tarde) a la que se le puede hacer la "
+"de su pedido, le rogamos nos facilite en la ventana \"Añada notas a su "
+"pedido\" la hora aproximada (mañana o tarde) a la que se le puede hacer la "
 "entrega, así cómo el móvil del receptor del pedido. <br>Si ya ha terminado "
 "de hacer el pago, puede hacerlo desde la página de Atención Al Cliente "
 "indicándonos su ( Pedido Nº ) cómo referencia... <br>Esperamos que quede "
@@ -10557,23 +12036,23 @@ msgstr ""
 "dato que pondrá en todos los casos.  <br><strong>Cuenta bancaria:</strong> "
 "El número de la cuenta bancaria.<br><strong> Nombre del Banco:</strong> El "
 "nombre del banco y la dirección postal de la sucursal del banco en el que "
-"desea recibir el ingreso. <br><strong>Código de Clasificación SORT CODE:</"
-"strong> Es un código de clasificación bancaria para transferencias de dinero "
-"dado por el sector bancario británico e irlandés (donde se conoce cómo NSC). "
-"Es un código compuesto de 6 dígitos que se muestra en parejas. Ejemplo: "
-"11-22-33 .  <br><strong>IBAN:</strong> Se estableció cómo un estándar en "
-"Europa y más tarde fue adoptado cómo estándar internacional. Sus siglas "
-"corresponden a su nombre en inglés (International Bank Account Number). Este "
-"código está compuesto por hasta 34 caracteres, donde los 2 primeros "
+"desea recibir el ingreso. <br><strong>Código de Clasificación SORT CODE:"
+"</strong> Es un código de clasificación bancaria para transferencias de "
+"dinero dado por el sector bancario británico e irlandés (donde se conoce "
+"cómo NSC). Es un código compuesto de 6 dígitos que se muestra en parejas. "
+"Ejemplo: 11-22-33 .  <br><strong>IBAN:</strong> Se estableció cómo un "
+"estándar en Europa y más tarde fue adoptado cómo estándar internacional. Sus "
+"siglas corresponden a su nombre en inglés (International Bank Account Number)"
+". Este código está compuesto por hasta 34 caracteres, donde los 2 primeros "
 "identifican al país, los 2 segundos son dígitos de control y los demás hacen "
 "referencia a la información del banco y sucursal. Cada país decide el número "
-"de caracteres del IBAN. Ejemplo: ES-76-20770024003102575766 .  "
-"<br><strong>BIC o SWIFT BIC:</strong> Es un el código de identificación "
-"bancaria que utiliza la entidad financiera con el mismo nombre (siglas en "
-"inglés de Society for Worldwide Interbank Financial Telecommunication). Se "
-"compone de 8 caracteres que identifican el banco, el país y la localidad. "
-"Opcionalmente, puede incluir 3 caracteres más que identifican la sucursal. "
-"Ejemplo: BBBBESMM-XXX ."
+"de caracteres del IBAN. Ejemplo: ES-76-20770024003102575766 .  <br><strong>"
+"BIC o SWIFT BIC:</strong> Es un el código de identificación bancaria que "
+"utiliza la entidad financiera con el mismo nombre (siglas en inglés de "
+"Society for Worldwide Interbank Financial Telecommunication). Se compone de "
+"8 caracteres que identifican el banco, el país y la localidad. Opcionalmente,"
+" puede incluir 3 caracteres más que identifican la sucursal. Ejemplo: "
+"BBBBESMM-XXX ."
 
 # @ woocommerce
 #: classes/gateways/bacs/class-wc-gateway-bacs.php:88
@@ -10628,8 +12107,8 @@ msgid ""
 msgstr ""
 "Permite el pago mediante BACS (Bank Account Clearing System), más comúnmente "
 "conocido cómo banco directo o transferencia bancaria. <br><br><strong>Datos "
-"bancarios necesarios para hacer una transferencia internacional:</"
-"strong><br> Al hacer una transferencia bancaria a otro país usted necesitará "
+"bancarios necesarios para hacer una transferencia internacional:</strong><br>"
+" Al hacer una transferencia bancaria a otro país usted necesitará "
 "proporcionar a su cliente la información bancaria pertinente de la cuenta de "
 "su destinatario, en la cual se recibirán los fondos. La información "
 "requerida para hacer una transferencia internacional no es la misma en todos "
@@ -10688,19 +12167,19 @@ msgstr ""
 "facilite en la ventana \"Añada notas a su pedido\" la hora aproximada "
 "(mañana o tarde) a la que se le puede hacer la entrega, así cómo el móvil "
 "del receptor del pedido. Tambien lo puede hacer desde la sección Atención Al "
-"Cliente indicándonos su ID ( Pedido Nº ) cómo referencia. "
-"<strong>IMPORTANTE: Información de rastreo:</STRONG> Se debe poner una nota "
-"en la sección de ‘Nota del cheque' indicando el <strong>identificador de "
-"pedido ID (Pedido Nº)</strong>, número de factura, número de cuenta u otra "
-"información de rastreo de su compra. <br>En cuanto recibamos la confirmación "
-"de recepción del su cheque, le avisaremos con el OK a la compra y "
-"procederemos al envío de sus productos."
+"Cliente indicándonos su ID ( Pedido Nº ) cómo referencia. <strong>IMPORTANTE:"
+" Información de rastreo:</STRONG> Se debe poner una nota en la sección de "
+"‘Nota del cheque' indicando el <strong>identificador de pedido ID (Pedido Nº)"
+"</strong>, número de factura, número de cuenta u otra información de rastreo "
+"de su compra. <br>En cuanto recibamos la confirmación de recepción del su "
+"cheque, le avisaremos con el OK a la compra y procederemos al envío de sus "
+"productos."
 
 # @ woocommerce
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:73
 msgid ""
-"Please send your cheque to Store Name, Store Street, Store Town, Store "
-"State / County, Store Postcode."
+"Please send your cheque to Store Name, Store Street, Store Town, Store State "
+"/ County, Store Postcode."
 msgstr ""
 "Por favor envíe su cheque a... (Nombre, calle, ciudad, provincia / país y "
 "código postal) ... de nuestra tienda (También puede ingresarlo en nuestro "
@@ -10711,13 +12190,13 @@ msgstr ""
 "la ventana \"Añada notas a su pedido\" la hora aproximada (mañana o tarde) a "
 "la que se le puede hacer la entrega, así cómo el móvil del receptor del "
 "pedido. Tambien lo puede hacer desde la sección Atención Al Cliente "
-"indicándonos su ID ( Pedido Nº ) cómo referencia.. "
-"<br><br><strong>IMPORTANTE: Información de rastreo:</strong> Se debe poner "
-"una nota en la sección de <strong>‘Nota del cheque' indicando el "
-"identificador de pedido ID (Pedido Nº),</strong> número de factura, número "
-"de cuenta u otra información de rastreo de su compra. En cuanto recibamos la "
-"confirmación de recepción del su cheque, le avisaremos con el OK a la compra "
-"y procederemos al envío de sus productos."
+"indicándonos su ID ( Pedido Nº ) cómo referencia.. <br><br><strong>"
+"IMPORTANTE: Información de rastreo:</strong> Se debe poner una nota en la "
+"sección de <strong>‘Nota del cheque' indicando el identificador de pedido ID "
+"(Pedido Nº),</strong> número de factura, número de cuenta u otra información "
+"de rastreo de su compra. En cuanto recibamos la confirmación de recepción "
+"del su cheque, le avisaremos con el OK a la compra y procederemos al envío "
+"de sus productos."
 
 # @ woocommerce
 #: classes/gateways/cheque/class-wc-gateway-cheque.php:91
@@ -10726,10 +12205,10 @@ msgid ""
 "you probably wouldn't but it does allow you to make test purchases for "
 "testing order emails and the 'success' pages etc."
 msgstr ""
-"Permite pagos con cheques. ¿Por qué llevar cheques en los tiempos que "
-"corren? Bueno, probablemente no, pero le permite realizar compras de prueba "
-"para los correos electrónicos de pedidos de prueba y el 'buen fucionamiento' "
-"de las páginas, etc. Esta opción le permitirá cobrar en cheques si cree que "
+"Permite pagos con cheques. ¿Por qué llevar cheques en los tiempos que corren?"
+" Bueno, probablemente no, pero le permite realizar compras de prueba para "
+"los correos electrónicos de pedidos de prueba y el 'buen fucionamiento' de "
+"las páginas, etc. Esta opción le permitirá cobrar en cheques si cree que "
 "puede beneficiar a su negocio. En esta opción solo saldrá el mensaje que "
 "usted quiera indicar sobre dónde se ha de enviar el cheque y a nombre de "
 "quién. También se recomienda poner el aviso de que no se enviará el pedido "
@@ -10783,14 +12262,14 @@ msgstr ""
 "Descripción del método de pago que el cliente verá en el sitio web. Admite "
 "lenguaje HTML (Hyper Text  Markup Language) complejo. <br><br><strong>Por "
 "ejemplo:</strong> Pague en efectivo a la entrega de sus productos. Se le "
-"enviarán los productos de su pedido por Correos o Courier (** solo "
-"península) contra reembolso abonando el total del pedido más los gastos de "
-"envío al transportista cuando te entrega el paquete en su domicilio. "
-"<br>Este tipo de pago puede  tener un coste del X% del importe total del "
-"pedido + gastos de envío, con un mínimo de X€. <br>Para agilizar y ayudarnos "
-"en la entrega de su pedido, le rogamos nos facilite en la ventana \"Añada "
-"notas a su pedido\" la hora aproximada (mañana o tarde) a la que se le puede "
-"hacer la entrega, así cómo el móvil del receptor del pedido."
+"enviarán los productos de su pedido por Correos o Courier (** solo península)"
+" contra reembolso abonando el total del pedido más los gastos de envío al "
+"transportista cuando te entrega el paquete en su domicilio. <br>Este tipo de "
+"pago puede  tener un coste del X% del importe total del pedido + gastos de "
+"envío, con un mínimo de X€. <br>Para agilizar y ayudarnos en la entrega de "
+"su pedido, le rogamos nos facilite en la ventana \"Añada notas a su pedido\" "
+"la hora aproximada (mañana o tarde) a la que se le puede hacer la entrega, "
+"así cómo el móvil del receptor del pedido."
 
 # @ woocommerce
 #: classes/gateways/cod/class-wc-gateway-cod.php:97
@@ -10798,14 +12277,14 @@ msgstr ""
 msgid "Pay with cash upon delivery."
 msgstr ""
 "<strong>Pague en efectivo a la entrega de sus productos.</strong> Se "
-"enviarán los productos de su pedido por Correos o Courier (** solo "
-"península) contra reembolso abonando el total del pedido más los gastos de "
-"envío al transportista cuando te entrega el paquete en su domicilio. Este "
-"tipo de pago puede  tener un coste del X% del importe total del pedido + "
-"gastos de envío, con un mínimo de X€. Para agilizar y ayudarnos en la "
-"entrega de su pedido, le rogamos nos facilite en la ventana \"Añada notas a "
-"su pedido\" la hora aproximada (mañana o tarde) a la que se le puede hacer "
-"la entrega, así cómo el móvil del receptor del pedido."
+"enviarán los productos de su pedido por Correos o Courier (** solo península)"
+" contra reembolso abonando el total del pedido más los gastos de envío al "
+"transportista cuando te entrega el paquete en su domicilio. Este tipo de "
+"pago puede  tener un coste del X% del importe total del pedido + gastos de "
+"envío, con un mínimo de X€. Para agilizar y ayudarnos en la entrega de su "
+"pedido, le rogamos nos facilite en la ventana \"Añada notas a su pedido\" la "
+"hora aproximada (mañana o tarde) a la que se le puede hacer la entrega, así "
+"cómo el móvil del receptor del pedido."
 
 # @ woocommerce
 #: classes/gateways/cod/class-wc-gateway-cod.php:100
@@ -10842,8 +12321,8 @@ msgid ""
 msgstr ""
 "Puede configurar Pago Contra Reembolso aquí para que COD (COD=Cash on "
 "Delivery = Pago a la entrega o contra reembolso) esté disponible solo para "
-"ciertos métodos de envío, que tendrá que haber configurado antes para su "
-"uso. Dejar en blanco para habilitar para todos los métodos."
+"ciertos métodos de envío, que tendrá que haber configurado antes para su uso."
+" Dejar en blanco para habilitar para todos los métodos."
 
 # @ woocommerce
 #: classes/gateways/cod/class-wc-gateway-cod.php:176
@@ -10913,8 +12392,8 @@ msgstr ""
 "Internet. La mayoría acepta el pago con tarjeta de crédito a usuarios de "
 "muchos países sin ser miembro, así que ya no es necesario registrarse para "
 "pagar utilizando estos sistemas. PayPal soporta las siguientes tarjetas: "
-"Maestro, Visa, MasterCard, Discover, American Express y Tarjeta Aurora. "
-"<br>Esta compañía tiene un servidor seguro (https) por lo que todas las "
+"Maestro, Visa, MasterCard, Discover, American Express y Tarjeta Aurora. <br>"
+"Esta compañía tiene un servidor seguro (https) por lo que todas las "
 "transacciones están sujetas a la mayor privacidad y a la mayor seguridad. "
 "Este servicio vincula su e-mail a un número de tarjeta de crédito y lo "
 "convierte en el más seguro y sencillo de los métodos de pago Online "
@@ -10997,34 +12476,34 @@ msgstr ""
 "todas las transacciones están sujetas a la mayor privacidad y a la mayor "
 "seguridad. <br> .- Este servicio vincula el e-mail del cliente a un número "
 "de tarjeta de crédito y lo convierte en el más seguro y sencillo de los "
-"métodos de pago Online. <br> .- Documentación Woocommerce sobre <a href="
-"\"http://docs.woothemes.com/document/paypal-standard/#section-1\" target="
-"\"_blank\">Configuración de Paypal</a> y <a href=\"http://docs.woothemes.com/"
-"document/email-faq/\" target=\"_blank\">FAQ E-mail</a>. <br>.- Monedas "
-"soportadas por PayPal: PayPal puede realizar o aceptar pagos en las "
-"siguientes monedas: <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=p/"
-"sell/mc/mc_intro-outside\" target=\"_blank\">Divisas PayPal</a>. <br>.- "
-"Cálculo rápido de tipos de cambio cruzados: <a href=\"http://www.xe.com/es/"
-"\" target=\"_blank\">Tipo de cambio oficial de moneda</a>. <br>.- Comisión "
-"por transacción: Si quiere dar al cliente la opción de pagar con PayPal en "
-"su tienda online, debe saber que esta empresa cobra una comisión por "
-"transacción: <a href=\"https://www.paypal.com/es/cgi-bin/?cmd=_display-fees-"
-"outside\" target=\"_blank\">Tarifas de PayPal</a>. "
-"<br><br><strong>Personalizar estilo de PayPal</strong> <br>Con la opción "
-"'Estilo de la página', puede seleccionar los colores personalizados de la "
-"página y añadir imágenes para que el proceso de pago de PayPal parezca suyo. "
-"El estilo de página que seleccione se aplicará a todas las páginas del flujo "
-"de pago, incluida la creación de cuentas para nuevos usuarios de PayPal. La "
-"capacidad de crear páginas de pago personalizadas está disponible "
-"exclusivamente para titulares de cuentas Premier y Empresas. "
-"<br><br><strong>WooCommerce payment gateways</strong>: Con este módulo se "
-"puede añadir una opción para las pasarelas de pago de WooCommerce para "
-"agregar un cargo u honorario adicional fijo o porcentual <a href=\"http://"
-"wordpress.org/plugins/woocommerce-add-extra-charges-option-to-payment-"
-"gateways/screenshots/\" target=\"_blank\"> WooCommerce payment gateways</a> "
-"o este otro <a href=\"http://wordpress.org/plugins/woocommerce-pay-for-"
-"payment/screenshots/\" target=\"_blank\">Woocommerce-payforpayment </a>que "
-"añade un fijo y/o un porcentual con o sin impuestos al método de pago.."
+"métodos de pago Online. <br> .- Documentación Woocommerce sobre <a "
+"href=\"http://docs.woothemes.com/document/paypal-standard/#section-1\" "
+"target=\"_blank\">Configuración de Paypal</a> y <a href=\"http://docs."
+"woothemes.com/document/email-faq/\" target=\"_blank\">FAQ E-mail</a>. <br>.- "
+"Monedas soportadas por PayPal: PayPal puede realizar o aceptar pagos en las "
+"siguientes monedas: <a href=\"https://www.paypal.com/cgi-bin/webscr?"
+"cmd=p/sell/mc/mc_intro-outside\" target=\"_blank\">Divisas PayPal</a>. <br>.-"
+" Cálculo rápido de tipos de cambio cruzados: <a href=\"http://www.xe."
+"com/es/\" target=\"_blank\">Tipo de cambio oficial de moneda</a>. <br>.- "
+"Comisión por transacción: Si quiere dar al cliente la opción de pagar con "
+"PayPal en su tienda online, debe saber que esta empresa cobra una comisión "
+"por transacción: <a href=\"https://www.paypal.com/es/cgi-bin/?cmd=_display-"
+"fees-outside\" target=\"_blank\">Tarifas de PayPal</a>. <br><br><strong>"
+"Personalizar estilo de PayPal</strong> <br>Con la opción 'Estilo de la "
+"página', puede seleccionar los colores personalizados de la página y añadir "
+"imágenes para que el proceso de pago de PayPal parezca suyo. El estilo de "
+"página que seleccione se aplicará a todas las páginas del flujo de pago, "
+"incluida la creación de cuentas para nuevos usuarios de PayPal. La capacidad "
+"de crear páginas de pago personalizadas está disponible exclusivamente para "
+"titulares de cuentas Premier y Empresas. <br><br><strong>WooCommerce payment "
+"gateways</strong>: Con este módulo se puede añadir una opción para las "
+"pasarelas de pago de WooCommerce para agregar un cargo u honorario adicional "
+"fijo o porcentual <a href=\"http://wordpress.org/plugins/woocommerce-add-"
+"extra-charges-option-to-payment-gateways/screenshots/\" target=\"_blank\"> "
+"WooCommerce payment gateways</a> o este otro <a href=\"http://wordpress."
+"org/plugins/woocommerce-pay-for-payment/screenshots/\" target=\"_blank\">"
+"Woocommerce-payforpayment </a>que añade un fijo y/o un porcentual con o sin "
+"impuestos al método de pago.."
 
 # @ woocommerce
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:104
@@ -11136,9 +12615,9 @@ msgstr ""
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:169
 msgid "Page Style"
 msgstr ""
-"Estilo de la página <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=p/"
-"mer/cowp_summary-outside\" target=\"_blank\">Personalizar estilo</a></"
-"strong>."
+"Estilo de la página <a href=\"https://www.paypal.com/cgi-bin/webscr?"
+"cmd=p/mer/cowp_summary-outside\" target=\"_blank\">Personalizar estilo</a>"
+"</strong>."
 
 # @ woocommerce
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:171
@@ -11225,11 +12704,11 @@ msgid ""
 msgstr ""
 "El recinto de seguridad de PayPal sandbox (Cuenta creada en PayPal para "
 "propositos de prueba del sistema) puede ser utilizado para probar los pagos. "
-"Regístrate para obtener una cuenta de desarrollador aquí. <a href=\"%s\"></"
-"a> <a href=\"https://cms.paypal.com/es/cgi-bin/?cmd=_render-"
-"content&content_ID=developer/howto_testing_sandbox_get_started\" target="
-"\"_blank\">Cuenta Sandbox. </a> y la documentación <a href=\"http://www."
-"codigonexo.com/blog/cajon-de-sastre/tutorial-nuevo-paypal-developer/\" "
+"Regístrate para obtener una cuenta de desarrollador aquí. <a href=\"%s\"></a>"
+" <a href=\"https://cms.paypal.com/es/cgi-bin/?cmd=_render-"
+"content&content_ID=developer/howto_testing_sandbox_get_started\" "
+"target=\"_blank\">Cuenta Sandbox. </a> y la documentación <a href=\"http:"
+"//www.codigonexo.com/blog/cajon-de-sastre/tutorial-nuevo-paypal-developer/\" "
 "target=\"_blank\">Tutorial PayPal Developer</a>"
 
 # @ woocommerce
@@ -11246,26 +12725,27 @@ msgstr "Habilitar registro IPN"
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:213
 #, php-format
 msgid ""
-"Log PayPal events, such as IPN requests, inside <code>woocommerce/logs/"
-"paypal-%s.txt</code>"
+"Log PayPal events, such as IPN requests, inside <code>"
+"woocommerce/logs/paypal-%s.txt</code>"
 msgstr ""
-"Registrar los eventos de PayPal dentro del fichero <code>woocommerce/logs/"
-"paypal-%s.txt</code>, cómo las solicitudes de IPN (Notificación de Pago "
-"Instantáneo por Internet) <a href=\"https://developer.paypal.com/webapps/"
-"developer/docs/classic/ipn/integration-guide/IPNIntro/\" target=\"_blank"
-"\">introducción a IPN</a>. <br>Las notificaciones de pago instantáneas dicen "
-"a su tienda que el pago se ha realizado con éxito o no,<a href=\"https://www."
-"paypal.com/es/cgi-bin/webscr?cmd=p/acc/ipn-info-outside\" target=\"_blank\"> "
-"Cómo verificar IPN</a>. El servidor tiene que tener soporte fsockopen para "
-"acceso IPN de pasarelas de pago. Para ver si su sistema tiene habilitado, "
-"está operativo y comunica el IPN,  puede comprobarlo en la sección  ' "
-"Woocommerce -> Estado del Sistema' en la sección ' WP Mensaje Remoto '. "
-"<br>PayPal acaba de lanzar la herramienta Simulador de IPN cómo parte del "
-"entorno de pruebas <a href=\"https://cms.paypal.com/es/cgi-bin/?cmd=_render-"
-"content&content_ID=developer/howto_testing_sandbox\" target=\"_blank"
-"\">PayPal Sandbox</a>. Documentación Woocommerce sobre configuración de "
-"PayPal e IPN <a href=\"http://docs.woothemes.com/document/paypal-standard/"
-"#section-6\" target=\"_blank\">Woocommerce Depuración de problemas de IPN</a>"
+"Registrar los eventos de PayPal dentro del fichero <code>"
+"woocommerce/logs/paypal-%s.txt</code>, cómo las solicitudes de IPN "
+"(Notificación de Pago Instantáneo por Internet) <a href=\"https://developer."
+"paypal.com/webapps/developer/docs/classic/ipn/integration-guide/IPNIntro/\" "
+"target=\"_blank\">introducción a IPN</a>. <br>Las notificaciones de pago "
+"instantáneas dicen a su tienda que el pago se ha realizado con éxito o no,<a "
+"href=\"https://www.paypal.com/es/cgi-bin/webscr?cmd=p/acc/ipn-info-outside\" "
+"target=\"_blank\"> Cómo verificar IPN</a>. El servidor tiene que tener "
+"soporte fsockopen para acceso IPN de pasarelas de pago. Para ver si su "
+"sistema tiene habilitado, está operativo y comunica el IPN,  puede "
+"comprobarlo en la sección  ' Woocommerce -> Estado del Sistema' en la "
+"sección ' WP Mensaje Remoto '. <br>PayPal acaba de lanzar la herramienta "
+"Simulador de IPN cómo parte del entorno de pruebas <a href=\"https://cms."
+"paypal.com/es/cgi-bin/?cmd=_render-"
+"content&content_ID=developer/howto_testing_sandbox\" target=\"_blank\">"
+"PayPal Sandbox</a>. Documentación Woocommerce sobre configuración de PayPal "
+"e IPN <a href=\"http://docs.woothemes.com/document/paypal-standard/#section-"
+"6\" target=\"_blank\">Woocommerce Depuración de problemas de IPN</a>"
 
 # @ woocommerce
 #: classes/gateways/paypal/class-wc-gateway-paypal.php:331
@@ -11411,21 +12891,21 @@ msgstr ""
 "comercio electrónico en su sitio. Esto significa que incluso si usted tiene "
 "Google Analytics establecido en su sitio, ya sea integrado en el tema, o con "
 "el uso de un plug-in, añadiendo el ID de Google Analytics aquí, ayudará a "
-"realizar un seguimiento aún más eficaz de los productos en su sitio."
-"<br>Google Analytics es la mejor herramienta gratuita de análisis "
-"disponibles en línea, y la adición de esta característica en su sitio le "
-"ofrece información muy detallada acerca de la forma en que sus clientes no "
-"sólo búscan sus productos, sino el tiempo que están en cada uno de ellos y "
-"la forma en que navegan a través de su sitio, así que la activación de esta "
-"función es una buena idea. <br>Puede crear una cuenta para su tienda aquí: "
-"<a href=\"http://www.google.com/analytics/\" target=\"_blank\">Google "
-"Analytics</a> <br>Por supuesto, Google Analytics es muy complejo, por lo que "
-"se necesita algún tiempo para acostumbrarse a él, pero si quiere entender "
-"realmente cómo sus clientes se comportan en su sitio, activar Google "
-"Analytics es una necesidad.<br><br><strong>¡¡ Importante !!</strong>: Puede "
-"tomar ~ 24 horas para que los resultados se muestren en los informes de "
-"Google Analytics. Especialmente si su cuenta de Google Analytics es nueva. A "
-"veces los datos se mostrarán en menos de una hora, pero nunca se sabe."
+"realizar un seguimiento aún más eficaz de los productos en su sitio.<br>"
+"Google Analytics es la mejor herramienta gratuita de análisis disponibles en "
+"línea, y la adición de esta característica en su sitio le ofrece información "
+"muy detallada acerca de la forma en que sus clientes no sólo búscan sus "
+"productos, sino el tiempo que están en cada uno de ellos y la forma en que "
+"navegan a través de su sitio, así que la activación de esta función es una "
+"buena idea. <br>Puede crear una cuenta para su tienda aquí: <a href=\"http:"
+"//www.google.com/analytics/\" target=\"_blank\">Google Analytics</a> <br>Por "
+"supuesto, Google Analytics es muy complejo, por lo que se necesita algún "
+"tiempo para acostumbrarse a él, pero si quiere entender realmente cómo sus "
+"clientes se comportan en su sitio, activar Google Analytics es una necesidad."
+"<br><br><strong>¡¡ Importante !!</strong>: Puede tomar ~ 24 horas para que "
+"los resultados se muestren en los informes de Google Analytics. "
+"Especialmente si su cuenta de Google Analytics es nueva. A veces los datos "
+"se mostrarán en menos de una hora, pero nunca se sabe."
 
 # @ woocommerce
 #: classes/integrations/google-analytics/class-wc-google-analytics.php:63
@@ -11439,8 +12919,8 @@ msgid ""
 "X</code>"
 msgstr ""
 "Inicie sesión en su cuenta de Google Analytics para conseguir su ID. por "
-"ejemplo, <code>UA-XXXXX-X</code>. Puede crear una cuenta para su tienda "
-"aquí: <a href=\"http://www.google.com/analytics/\" target=\"_blank\">Google "
+"ejemplo, <code>UA-XXXXX-X</code>. Puede crear una cuenta para su tienda aquí:"
+" <a href=\"http://www.google.com/analytics/\" target=\"_blank\">Google "
 "Analytics</a> "
 
 # @ woocommerce
@@ -11481,11 +12961,11 @@ msgstr ""
 #: classes/integrations/google-analytics/class-wc-google-analytics.php:82
 msgid "Add eCommerce tracking code to the thankyou page"
 msgstr ""
-"Añadir el código de seguimiento eCommerce a la página de agradecimiento. "
-"<br>También puede agregar códigos de seguimiento de comercio electrónico a "
-"su página de agradecimientos y es altamente recomendable hacer esto, así "
-"usted puede ver todo el camino que han llevado los clientes a través del "
-"proceso de compra hasta llegar a la página de agradecimiento. "
+"Añadir el código de seguimiento eCommerce a la página de agradecimiento. <br>"
+"También puede agregar códigos de seguimiento de comercio electrónico a su "
+"página de agradecimientos y es altamente recomendable hacer esto, así usted "
+"puede ver todo el camino que han llevado los clientes a través del proceso "
+"de compra hasta llegar a la página de agradecimiento. "
 
 # @ woocommerce
 #: classes/integrations/google-analytics/class-wc-google-analytics.php:88
@@ -11508,7 +12988,7 @@ msgstr "SKU-REF:"
 # @ woocommerce
 #: classes/integrations/google-analytics/class-wc-google-analytics.php:290
 msgid "Add to Cart"
-msgstr "Incorporar a su Compra"
+msgstr "Agregar a Bolsa"
 
 # @ woocommerce
 #: classes/integrations/sharedaddy/class-wc-sharedaddy.php:26
@@ -11547,8 +13027,8 @@ msgstr ""
 "target=\"_blank\">ShareThis</a> ¡Compártelo! Es uno de los servicios que "
 "proporcionan en tres pasos botones de acción gratuita y también ofrece un "
 "widget que permite a los clientes compartir los enlaces de los productos con "
-"sus amigos. <br>ShareThis añade los botones de Facebook, E-Mail, Twitter "
-"etc. debajo del botón 'Añadir a su compra' en el producto principal, que al "
+"sus amigos. <br>ShareThis añade los botones de Facebook, E-Mail, Twitter etc."
+" debajo del botón 'Añadir a su compra' en el producto principal, que al "
 "pasar el cursor por encima se abren en una mascara de superposición "
 "emergente con todas las opciones disponibles para compartir sus productos a "
 "través de estas novedosas, populares y eficaces Redes Sociales. <br>Para "
@@ -11558,32 +13038,32 @@ msgstr ""
 "de función para su sitio puede ser un gran beneficio aumentando su "
 "exposición en las Redes Sociales y en otros casos, sus clientes pueden "
 "encontrarlo  molesto. <br>Por lo tanto, hay que ver cómo aparece en su sitio "
-"y también observar a sus clientes cómo reaccionan a ello. Si quiere "
-"probarlo, cree una cuenta y a ver cómo funciona. <br><br><strong>Códigos "
-"Redes Sociales:</strong><br>Con esta <a href=\"http://www.jeffalytics.com/"
-"customize-addthis-wordpress-plugin/\" target=\"_blank\">nueva opción</a>, "
-"puede poner los botones y enlaces a las Redes Sociales más populares. Cópie "
-"el código y péguelo en la ventana de edición y configurelo según el "
-"artículo, modificando el tamaño de las miniaturas a16X16 y recordando poner "
-"en la ventana de 'ID editor para ShareThis' cualquier cosa... Pej: 1234 para "
+"y también observar a sus clientes cómo reaccionan a ello. Si quiere probarlo,"
+" cree una cuenta y a ver cómo funciona. <br><br><strong>Códigos Redes "
+"Sociales:</strong><br>Con esta <a href=\"http://www.jeffalytics."
+"com/customize-addthis-wordpress-plugin/\" target=\"_blank\">nueva opción</a>,"
+" puede poner los botones y enlaces a las Redes Sociales más populares. Cópie "
+"el código y péguelo en la ventana de edición y configurelo según el artículo,"
+" modificando el tamaño de las miniaturas a16X16 y recordando poner en la "
+"ventana de 'ID editor para ShareThis' cualquier cosa... Pej: 1234 para "
 "hacerlo visible en el producto principal. <br>Otra solución manual e "
 "independiente pero muy interesante es esta: <a href=\"http://lorenaggomez."
 "com/2013/06/21/como-insertar-botones-sociales-en-tu-wordpress-gratis/\" "
 "target=\"_blank\">Cómo insertar botones sociales en WordPress gratis</a> o "
 "<a href=\"http://comunicandova.wordpress.com/2013/10/23/como-poner-iconos-de-"
-"redes-sociales-en-wordpress/\" target=\"_blank\">esta otra</a> "
-"<br><br><strong>Plugin auxiliar: </strong> <br> Con este módulo <a href="
-"\"http://wordpress.org/plugins/social-sharing-toolkit/screenshots/\" target="
-"\"_blank\">Social Sharing Toolkit</a> instala todos los iconos de las Redes "
-"Sociales donde usted puede decidir que redes de apoyo se instalarán, donde "
-"aparecerán los botones (ya sea por encima o por debajo del contenido) etc. A "
-"través de arrastrar y soltar se puede cambiar fácilmente el orden en el que "
-"aparecen los botones. <br><br><strong>Short-Code Redes Sociales</"
-"strong><br>Si utiliza alguna de las plantillas de Woothemes, tiene la opción "
-"de posicionar los botones de Redes Sociales en cualquier parte de del sitio, "
-"a través de los códigos-cortos incluidos en ellas. <a href=\"http://docs."
-"woothemes.com/document/shortcodes/\" target=\"_blank\">Códigos Cortos de "
-"Woothemes</a>."
+"redes-sociales-en-wordpress/\" target=\"_blank\">esta otra</a> <br><br>"
+"<strong>Plugin auxiliar: </strong> <br> Con este módulo <a href=\"http:"
+"//wordpress.org/plugins/social-sharing-toolkit/screenshots/\" "
+"target=\"_blank\">Social Sharing Toolkit</a> instala todos los iconos de las "
+"Redes Sociales donde usted puede decidir que redes de apoyo se instalarán, "
+"donde aparecerán los botones (ya sea por encima o por debajo del contenido) "
+"etc. A través de arrastrar y soltar se puede cambiar fácilmente el orden en "
+"el que aparecen los botones. <br><br><strong>Short-Code Redes "
+"Sociales</strong><br>Si utiliza alguna de las plantillas de Woothemes, tiene "
+"la opción de posicionar los botones de Redes Sociales en cualquier parte de "
+"del sitio, a través de los códigos-cortos incluidos en ellas. <a href=\"http:"
+"//docs.woothemes.com/document/shortcodes/\" target=\"_blank\">Códigos Cortos "
+"de Woothemes</a>."
 
 # @ woocommerce
 #: classes/integrations/sharethis/class-wc-sharethis.php:63
@@ -11597,9 +13077,9 @@ msgid ""
 "Enter your %1$sShareThis publisher ID%2$s to show social sharing buttons on "
 "product pages."
 msgstr ""
-"Ingrese su ID  <a href=\"http://www.sharethis.com/signin/\" target=\"_blank"
-"\">ShareThis</a> para mostrar los botones de compartir en las páginas del "
-"producto. %1$sShareThis publisher ID%2$s"
+"Ingrese su ID  <a href=\"http://www.sharethis.com/signin/\" "
+"target=\"_blank\">ShareThis</a> para mostrar los botones de compartir en las "
+"páginas del producto. %1$sShareThis publisher ID%2$s"
 
 # @ woocommerce
 #: classes/integrations/sharethis/class-wc-sharethis.php:69
@@ -11627,17 +13107,17 @@ msgstr "Comparta su compra (ShareYourCart)"
 msgid ""
 "Increase your social media exposure by 10 percent! ShareYourCart helps you "
 "get more customers by motivating satisfied customers to talk with their "
-"friends about your products. For help with ShareYourCart view the <a href="
-"\"http://docs.woothemes.com/document/shareyourcart/\" target=\"__blank"
-"\">documentation</a>."
+"friends about your products. For help with ShareYourCart view the <a "
+"href=\"http://docs.woothemes.com/document/shareyourcart/\" "
+"target=\"__blank\">documentation</a>."
 msgstr ""
 "Aumente su exposición a los medios sociales en un 10 por ciento! "
 "ShareYourCart le ayuda a obtener más clientes, motivando a los clientes "
 "satisfechos a hablar con sus amigos acerca de sus productos. <br>Para "
-"obtener ayuda con ShareYourCart ver la <a href=\"http://docs.woothemes.com/"
-"document/shareyourcart/\"target=\"__blank\">documentación de Woocomerce</a>. "
-"Crear una cuenta aquí <a href=\"http://www.addshoppers.com/?oid=1082_1\" "
-"target=\"_blank\">ShareYourCart</a>"
+"obtener ayuda con ShareYourCart ver la <a href=\"http://docs.woothemes."
+"com/document/shareyourcart/\"target=\"__blank\">documentación de "
+"Woocomerce</a>. Crear una cuenta aquí <a href=\"http://www.addshoppers.com/?"
+"oid=1082_1\" target=\"_blank\">ShareYourCart</a>"
 
 # @ default
 #: classes/integrations/shareyourcart/class.shareyourcart-wp.php:328
@@ -11708,35 +13188,35 @@ msgstr ""
 "aplicará una tasa mínima al coste del envío, si el valor resultante del % "
 "deducido es inferior a esta. Permite tambien configurar diferentes tarifas "
 "planas para poder asociar a diferentes tipos de productos (Clases) en "
-"función del peso, volumen o masa. <a href=\"http://docs.woothemes.com/"
-"document/flat-rate-shipping/\" target=\"_blank\">Documentación Woocommerce</"
-"a> y <a href=\"http://woocommerce-es.blogspot.com.es/2014/02/configuracion-"
-"tipos-envios-clases-envio-tarifa-plana-costes-adicionales-woocommerce.html#."
-"UzQpe6h5NWJ\" target=\"_blank\">Configuración Tarifa Plana</a>."
-"<br><br><strong>Título del método:</strong> Aquí se establece el título que "
-"el usuario verá durante la finalización de la compra o dejar en blanco para "
-"que el título sean los términos que aparecen en 'Tarifas adicionales'."
-"<br><br><strong>Disponibilidad:</strong> Configuración de Países "
-"específicos: Seleccione los países para los cuales estarán disponibles los "
-"tipos de envío. Por lo general tiene que haber un correspondencia con los "
-"países habilitados en la configuración General > Países en los que quiere "
-"vender. De no haberla y si en la página del cálculo final de 'Hacer Pedido' "
-"se invoca un país que no figura aquí en 'Países específicos', le saldrá al "
-"cliente el mensaje: 'Lo sentimos, parece que no hay métodos de envío "
-"disponibles para su ubicación (País). Si necesita ayuda o desea hacer alguna "
-"pregunta para resolver sus dudas, por favor póngase en contacto con nosotros "
-"a través de la página de Atención al Cliente o llámenos al teléfono de la "
-"tienda. Muchas gracias.'<br><br><strong>Estado de impuestos:</strong> "
-"Establece si se aplicarán los impuestos configurados en Woocommerce >> "
-"Impuestos<br><br><strong>Coste mínimo por pedido:</strong> Ingrese un coste "
-"mínimo por pedido (impuestos excluidos) por ejemplo 5,00 o déjelo en blanco "
-"para deshabilitarlo. Este coste mínimo siempre se cobrará con independencia "
-"de las otras Tarifas Adicionales, Costes Adicionales y otros Gastos de "
-"Gestión, sumándose al total del pedido.<br><br><strong>Tarifas Adicionales:</"
-"strong> Son opciones de envío adicionales y opcionales con costes "
-"adicionales, (uno por línea y separados por una barra vertical | ): Nombre "
-"de la opción | Coste Adicional | Tipo de coste. Pej. Envío Express (2-3 "
-"días) | 8,50 | item."
+"función del peso, volumen o masa. <a href=\"http://docs.woothemes."
+"com/document/flat-rate-shipping/\" target=\"_blank\">Documentación "
+"Woocommerce</a> y <a href=\"http://woocommerce-es.blogspot.com."
+"es/2014/02/configuracion-tipos-envios-clases-envio-tarifa-plana-costes-"
+"adicionales-woocommerce.html#.UzQpe6h5NWJ\" target=\"_blank\">Configuración "
+"Tarifa Plana</a>.<br><br><strong>Título del método:</strong> Aquí se "
+"establece el título que el usuario verá durante la finalización de la compra "
+"o dejar en blanco para que el título sean los términos que aparecen en "
+"'Tarifas adicionales'.<br><br><strong>Disponibilidad:</strong> Configuración "
+"de Países específicos: Seleccione los países para los cuales estarán "
+"disponibles los tipos de envío. Por lo general tiene que haber un "
+"correspondencia con los países habilitados en la configuración General > "
+"Países en los que quiere vender. De no haberla y si en la página del cálculo "
+"final de 'Hacer Pedido' se invoca un país que no figura aquí en 'Países "
+"específicos', le saldrá al cliente el mensaje: 'Lo sentimos, parece que no "
+"hay métodos de envío disponibles para su ubicación (País). Si necesita ayuda "
+"o desea hacer alguna pregunta para resolver sus dudas, por favor póngase en "
+"contacto con nosotros a través de la página de Atención al Cliente o "
+"llámenos al teléfono de la tienda. Muchas gracias.'<br><br><strong>Estado de "
+"impuestos:</strong> Establece si se aplicarán los impuestos configurados en "
+"Woocommerce >> Impuestos<br><br><strong>Coste mínimo por pedido:</strong> "
+"Ingrese un coste mínimo por pedido (impuestos excluidos) por ejemplo 5,00 o "
+"déjelo en blanco para deshabilitarlo. Este coste mínimo siempre se cobrará "
+"con independencia de las otras Tarifas Adicionales, Costes Adicionales y "
+"otros Gastos de Gestión, sumándose al total del pedido.<br><br><strong>"
+"Tarifas Adicionales:</strong> Son opciones de envío adicionales y opcionales "
+"con costes adicionales, (uno por línea y separados por una barra vertical | )"
+": Nombre de la opción | Coste Adicional | Tipo de coste. Pej. Envío Express "
+"(2-3 días) | 8,50 | item."
 
 # @ woocommerce
 #: classes/shipping/flat-rate/class-wc-shipping-flat-rate.php:78
@@ -11800,17 +13280,16 @@ msgstr ""
 "lógica: Con un coste adicional de 2,99, con 'order' se aplicaría 2.99 al "
 "pedido, con \"class\" se aplicaría 2,99 multiplicado por el número de clases "
 "(diferentes) de envío actuales en el carrito e 'item' se aplicaría 2,99 "
-"multiplicado por la cantidad de productos en el carrito. <br> Ejemplo: "
-"<code> Envío terrestre (5-7 días) | 2,99 |  item, Envío Express (2-4 días)  "
-"| 6,99  |  item, Al día siguiente  | 9,99 | item </code>.<br><strong> NOTA:</"
-"strong> Estas Tarifas Adicionales se sumarán a los de 'Coste mínimo por "
-"pedido' si está configurado con algún valor. Si configura una 'Tarifa "
-"adicional' con | 0 | para una 'recogida personal' por ejemplo, en la "
-"presentación final del pedido aparecerá la exclamación (¡Gratis!). Estas "
-"'Tarifas Adicionales' aparecerán en la página de 'Mi compra' y serán "
-"seleccionables, para que el cliente elija la que más le interese o le "
-"corresponda si se trata de una configuración de envío por regiones "
-"territoriales con tarifas diferentes."
+"multiplicado por la cantidad de productos en el carrito. <br> Ejemplo: <code>"
+" Envío terrestre (5-7 días) | 2,99 |  item, Envío Express (2-4 días)  | 6,99 "
+" |  item, Al día siguiente  | 9,99 | item </code>.<br><strong> NOTA:</strong>"
+" Estas Tarifas Adicionales se sumarán a los de 'Coste mínimo por pedido' si "
+"está configurado con algún valor. Si configura una 'Tarifa adicional' con | "
+"0 | para una 'recogida personal' por ejemplo, en la presentación final del "
+"pedido aparecerá la exclamación (¡Gratis!). Estas 'Tarifas Adicionales' "
+"aparecerán en la página de 'Mi compra' y serán seleccionables, para que el "
+"cliente elija la que más le interese o le corresponda si se trata de una "
+"configuración de envío por regiones territoriales con tarifas diferentes."
 
 # @ woocommerce
 #: classes/shipping/flat-rate/class-wc-shipping-flat-rate.php:133
@@ -11820,9 +13299,9 @@ msgstr ""
 "item) Pej:1ª:  Envío terrestre (5-7 días) | 2.99 | item  2ª:  Correo urgente "
 "(3-5 días)  | 4,99  | item  3ª:  Envío Express (2-4 días)  | 6,99  | item  "
 "4ª:  Al día siguiente  | 9,99 | item  o  1ª: Entrega a Domicilio Madrid "
-"capital | 2 | class  2ª: Entrega a Domicilio Resto Peninsula | 5 | class  "
-"3ª: Entrega a Domicilio Baleares | 7 | class  4ª:  Entrega a Domicilio Ceuta "
-"o Melilla | 8 | class  5ª: Entrega a Domicilio Canarias | 10 | class"
+"capital | 2 | class  2ª: Entrega a Domicilio Resto Peninsula | 5 | class  3ª:"
+" Entrega a Domicilio Baleares | 7 | class  4ª:  Entrega a Domicilio Ceuta o "
+"Melilla | 8 | class  5ª: Entrega a Domicilio Canarias | 10 | class"
 
 # @ woocommerce
 #: classes/shipping/flat-rate/class-wc-shipping-flat-rate.php:136
@@ -11836,35 +13315,35 @@ msgid ""
 "order cost above."
 msgstr ""
 "<strong>TABLA DE TIPOS DE ENVÍO:</strong><br>Para configurar esta sección "
-"primero tendrá que tener uno o varios tipos de envío creados en: "
-"<strong>Productos > Tipos de Envío</strong> (No es otra cosa que darle un "
-"nombre orientativo y representativo Pej: Envío-20€, Camisas-5€, "
-"Zapatos-10€). <a href=\"http://docs.woothemes.com/document/product-shipping-"
-"classes/\" target=\"_blank\">Documentación</a><br><br>La secuencia es: 1- "
-"Crear tipos de envío en:  <strong>Productos > Tipos de Envío</strong>. 2- "
-"Despues de haber creado un tipo de envío, se le asignará un valor; la "
-"cantidad que usted desea cobrar por el envío a sus clientes por la compra de "
-"los  productos bajo este tipo de envío seleccionando y configurándolo en "
-"esta misma sección en: <strong>Tabla de tipos de envío > Costes</strong>. 3- "
-"Por último, asignar los tipos de envío creados a los productos de su tienda: "
-"<strong>Productos > Datos del Producto > Envío</strong>. "
-"<br><br><strong>Configuración de Costes Adicionales (Tabla Tipos de Envío):</"
-"strong><br> Define cómo se aplican sus costes adicionales, ya sea por "
-"pedido, multiplicado por el número de clases de envío o multiplicado por el "
-"número de elementos. Si se tienen definidos en: <strong>Productos > Tipos de "
+"primero tendrá que tener uno o varios tipos de envío creados en: <strong>"
+"Productos > Tipos de Envío</strong> (No es otra cosa que darle un nombre "
+"orientativo y representativo Pej: Envío-20€, Camisas-5€, Zapatos-10€). <a "
+"href=\"http://docs.woothemes.com/document/product-shipping-classes/\" "
+"target=\"_blank\">Documentación</a><br><br>La secuencia es: 1- Crear tipos "
+"de envío en:  <strong>Productos > Tipos de Envío</strong>. 2- Despues de "
+"haber creado un tipo de envío, se le asignará un valor; la cantidad que "
+"usted desea cobrar por el envío a sus clientes por la compra de los  "
+"productos bajo este tipo de envío seleccionando y configurándolo en esta "
+"misma sección en: <strong>Tabla de tipos de envío > Costes</strong>. 3- Por "
+"último, asignar los tipos de envío creados a los productos de su tienda: "
+"<strong>Productos > Datos del Producto > Envío</strong>. <br><br><strong>"
+"Configuración de Costes Adicionales (Tabla Tipos de Envío):</strong><br> "
+"Define cómo se aplican sus costes adicionales, ya sea por pedido, "
+"multiplicado por el número de clases de envío o multiplicado por el número "
+"de elementos. Si se tienen definidos en: <strong>Productos > Tipos de "
 "Envío</strong> diferentes tipos de envío en función por cada producto  (Pej: "
-"Medio-15€, Envío-10€, Envío-20€, Porcentual10%, Gratis, Camisas, Zapatos "
-"etc.), dependiendo de las características o propiedades de cada producto a "
-"los que se vayan a asignar, se configurarán cada uno aquí en: Tabla de tipos "
-"de envío > + Añadir Tipo de Envío uno por uno asignándole unos baremos de "
+"Medio-15€, Envío-10€, Envío-20€, Porcentual10%, Gratis, Camisas, Zapatos etc."
+"), dependiendo de las características o propiedades de cada producto a los "
+"que se vayan a asignar, se configurarán cada uno aquí en: Tabla de tipos de "
+"envío > + Añadir Tipo de Envío uno por uno asignándole unos baremos de "
 "precios en Coste y unos Gastos de Gestión (si los tuviera) asegurándose de "
 "que éste tipo de envío está también asignado a los productos que Vd. "
-"considere en:  (Productos > Datos del Producto > Envío). "
-"<br><br><strong>NOTA:</strong> Estos costos adicionales se sumarán a todas "
-"las Tarifas Adicionales anteriores para ser aplicados en el computo final, "
-"al producto correspondiente en venta, en la página del carrito (Mi Compra). "
-"<br><br><strong>Costes adicionales aplicados por... </strong> Por pedido - "
-"Por artículo - Por clase. <br>Se pueden crear uno o más tipos de envíos "
+"considere en:  (Productos > Datos del Producto > Envío). <br><br><strong>"
+"NOTA:</strong> Estos costos adicionales se sumarán a todas las Tarifas "
+"Adicionales anteriores para ser aplicados en el computo final, al producto "
+"correspondiente en venta, en la página del carrito (Mi Compra). <br><br>"
+"<strong>Costes adicionales aplicados por... </strong> Por pedido - Por "
+"artículo - Por clase. <br>Se pueden crear uno o más tipos de envíos "
 "variables basado en el % del precio de un producto Pej: Porcentual-10, "
 "Porcentual-20... etc. y aplicado en las opciones adicionales de: Por "
 "Articulo y Por Clase, aplicándole en Gastos de Gestión el valor Pej: 10% "
@@ -11874,8 +13353,8 @@ msgstr ""
 "opciones son:</strong> <br><strong>Por Pedido:</strong> El precio será para "
 "todo el pedido en su conjunto. De haber más de un producto con diferentes "
 "tipos de envío en el carrito (Mi compra), se tomará el valor del más alto "
-"para el cálculo del envío del conjunto del pedido.<br><strong>Por Articulo:</"
-"strong> Los tipos de envío se calcularán individualmente (enteros y "
+"para el cálculo del envío del conjunto del pedido.<br><strong>Por Articulo:"
+"</strong> Los tipos de envío se calcularán individualmente (enteros y "
 "porcentuales) de cada producto y la suma de todos ellos será el valor del "
 "coste del envío. <br><strong>Por Clase:</strong> El coste del envío se "
 "calculará para cada 'Clase' (Camisas, zapatos) y el precio del envío sera "
@@ -11896,47 +13375,47 @@ msgstr ""
 "ingrese un valor, puede ser numérico o un porcentaje (por ejemplo, 5%), Si "
 "tiene un tipo de envío basado en el porcentual del precio de venta, "
 "ingréselo aquí, en este formato: 10% dejando en blanco el 'Coste'. Este "
-"valor porcentual, siempre se deducirá del precio de venta. "
-"<br><br><strong>Cantidad mínima del envío:</strong><br> Configurar esta "
-"opción para garantizar un mínimo en la aplicación del envío. Esto es útil "
-"cuando se utilizan costes de envío basados en porcentuales. Se aplicará esta "
-"tasa mínima al Coste del envío, en lugar del valor resultante del % si éste "
-"es inferior a la tasa fijada en Cantidad Mínima del Envío. Es decir: si el "
+"valor porcentual, siempre se deducirá del precio de venta. <br><br><strong>"
+"Cantidad mínima del envío:</strong><br> Configurar esta opción para "
+"garantizar un mínimo en la aplicación del envío. Esto es útil cuando se "
+"utilizan costes de envío basados en porcentuales. Se aplicará esta tasa "
+"mínima al Coste del envío, en lugar del valor resultante del % si éste es "
+"inferior a la tasa fijada en Cantidad Mínima del Envío. Es decir: si el "
 "resultante del % es de 10 y en Cantidad Mínima del Envío tenemos un valor de "
-"20, el que se aplicará cómo Costes de Envío será este último valor. "
-"<br><br><strong>De haber envíos combinados (enteros y porcentuales)</"
-"strong><br>Por pedido: Se suman los valores con tipo de envío fijo, más el "
-"valor del % deducido del precio del producto con tipo de envío variable, "
-"fijado con porcentual.<br>Por artículo - Por clase: Se suma el valor de "
-"Cantidad mínima de envío (si la hubiera), más el variable (el resultado del "
-"% deducido del precio del producto), más el valor (entero) de los productos "
-"con el tipo de envío fijo.<br><br><strong>CONSIDERACIONES:</strong><br>Si el "
-"envío se cobra por artículo, los productos en el carrito se pueden enviar "
-"cómo un solo paquete. Esto es problemático cuando el peso de los productos "
-"varían. Si no utiliza las diferentes tarifas de transporte en Costes "
-"Adicionales de tipos de envío, es posible que decida basar el envío en el "
-"peso promedio de sus productos, pero si es así pueden producirse dos "
-"condiciones:<br><br>1º- Si el carrito tiene muchos productos con un peso "
-"promedio menor que la tasa configurada por artículo, el cliente paga más que "
-"el costo real de envío. El cliente pierde.<br>2º- Si el carro tiene muchos "
-"productos con un peso promedio mayor que la tasa configurada por artículo, "
-"el cliente paga menos que el costo real de envío. El vendedor pierde."
-"<br><br>Si el envío se cobra por pedido, sin clases de envío, todos los "
-"pedidos tienen exactamente los mismos costos. Usted podría basar este en el "
-"peso medio de los pedidos en un período de tiempo, pero pueden producirse "
-"las siguientes condiciones:<br><br>1º- El comprador puede cargar su carrito "
-"más allá de un punto en el que el costo real de envío es mayor que el costo "
-"configurado. El vendedor pierde.<br>2º- El comprador puede cargar su carrito "
-"por debajo de un punto en el que el costo real de envío es menor que el "
-"costo configurado. El cliente pierde.<br><br><strong>Snippets envíos: </"
-"strong>Colección de fragmentos de código de Woocommerce para su fichero "
-"plugin personalizado funciones.php que ha de crear y activar cómo un <a href="
-"\"http://ayudawordpress.com/crea-un-plugin-para-liberar-el-fichero-functions-"
-"php/\" target=\"_blank\">plugin normal</a>, para ampliar o modificar el "
-"comportamiento y la mecánica de los métodos de envío aportando nuevas e "
-"interesantes funcionalidades a la tienda. <a href=\"https://gist.github.com/"
-"ChromeOrange?page=1\" target=\"_blank\">Utilidades para los envíos</a> y "
-"otras. <br><br><strong>TABLA DE TIPOS DE ENVÍO:</strong>"
+"20, el que se aplicará cómo Costes de Envío será este último valor. <br><br>"
+"<strong>De haber envíos combinados (enteros y porcentuales)</strong><br>Por "
+"pedido: Se suman los valores con tipo de envío fijo, más el valor del % "
+"deducido del precio del producto con tipo de envío variable, fijado con "
+"porcentual.<br>Por artículo - Por clase: Se suma el valor de Cantidad mínima "
+"de envío (si la hubiera), más el variable (el resultado del % deducido del "
+"precio del producto), más el valor (entero) de los productos con el tipo de "
+"envío fijo.<br><br><strong>CONSIDERACIONES:</strong><br>Si el envío se cobra "
+"por artículo, los productos en el carrito se pueden enviar cómo un solo "
+"paquete. Esto es problemático cuando el peso de los productos varían. Si no "
+"utiliza las diferentes tarifas de transporte en Costes Adicionales de tipos "
+"de envío, es posible que decida basar el envío en el peso promedio de sus "
+"productos, pero si es así pueden producirse dos condiciones:<br><br>1º- Si "
+"el carrito tiene muchos productos con un peso promedio menor que la tasa "
+"configurada por artículo, el cliente paga más que el costo real de envío. El "
+"cliente pierde.<br>2º- Si el carro tiene muchos productos con un peso "
+"promedio mayor que la tasa configurada por artículo, el cliente paga menos "
+"que el costo real de envío. El vendedor pierde.<br><br>Si el envío se cobra "
+"por pedido, sin clases de envío, todos los pedidos tienen exactamente los "
+"mismos costos. Usted podría basar este en el peso medio de los pedidos en un "
+"período de tiempo, pero pueden producirse las siguientes condiciones:<br><br>"
+"1º- El comprador puede cargar su carrito más allá de un punto en el que el "
+"costo real de envío es mayor que el costo configurado. El vendedor pierde."
+"<br>2º- El comprador puede cargar su carrito por debajo de un punto en el "
+"que el costo real de envío es menor que el costo configurado. El cliente "
+"pierde.<br><br><strong>Snippets envíos: </strong>Colección de fragmentos de "
+"código de Woocommerce para su fichero plugin personalizado funciones.php que "
+"ha de crear y activar cómo un <a href=\"http://ayudawordpress.com/crea-un-"
+"plugin-para-liberar-el-fichero-functions-php/\" target=\"_blank\">plugin "
+"normal</a>, para ampliar o modificar el comportamiento y la mecánica de los "
+"métodos de envío aportando nuevas e interesantes funcionalidades a la tienda."
+" <a href=\"https://gist.github.com/ChromeOrange?page=1\" target=\"_blank\">"
+"Utilidades para los envíos</a> y otras. <br><br><strong>TABLA DE TIPOS DE "
+"ENVÍO:</strong>"
 
 # @ woocommerce
 #: classes/shipping/flat-rate/class-wc-shipping-flat-rate.php:141
@@ -12097,28 +13576,28 @@ msgstr ""
 "Al contrario, si el usuario no tiene un cupón de envío gratis, se aplicara "
 "la Cantidad Mínima de Pedido. <br><br><strong>Recursos adicionales:</strong> "
 "<br>Colección de fragmentos de código de Woocommerce para su fichero plugin "
-"personalizado funciones.php que ha de crear y activar cómo un <a href="
-"\"http://ayudawordpress.com/crea-un-plugin-para-liberar-el-fichero-functions-"
-"php/\" target=\"_blank\">plugin normal</a>, para ampliar o modificar el "
+"personalizado funciones.php que ha de crear y activar cómo un <a href=\"http:"
+"//ayudawordpress.com/crea-un-plugin-para-liberar-el-fichero-functions-php/\" "
+"target=\"_blank\">plugin normal</a>, para ampliar o modificar el "
 "comportamiento o la mecánica de los métodos de envío aportando nuevas e "
 "interesantes funcionalidades a la tienda. <br>1º.- Ocultar otros métodos de "
-"envío en el carrito cuando el <a href=\"http://docs.woothemes.com/document/"
-"hide-other-shipping-methods-when-free-shipping-is-available/\" target="
-"\"_blank\">Envío Gratis</a> está disponible. Este fragmento de código "
+"envío en el carrito cuando el <a href=\"http://docs.woothemes."
+"com/document/hide-other-shipping-methods-when-free-shipping-is-available/\" "
+"target=\"_blank\">Envío Gratis</a> está disponible. Este fragmento de código "
 "posibilita que una vez cumplida la condición establecida para el 'Envío "
 "Gratis', desaparezcan los demás tipos de envío en la página del carrito, "
 "dejando sólo este último para poder continuar con el pedido. <br>2º.- "
 "Deshabilita el Envío Gratis por el volumen/peso/masa de un determinado "
 "artículo especificado por su ID en el código, mostrando los otros métodos de "
-"envío establecidos. <a href=\"https://gist.githubusercontent.com/"
-"BFTrick/7340580/raw/d72b2ae31a539935c1d681be95b5c763be7f5d8e/disable-free-"
-"shipping-per-product-woocommerce.php\" target=\"_blank\">Ocultar por ID "
+"envío establecidos. <a href=\"https://gist.githubusercontent."
+"com/BFTrick/7340580/raw/d72b2ae31a539935c1d681be95b5c763be7f5d8e/disable-"
+"free-shipping-per-product-woocommerce.php\" target=\"_blank\">Ocultar por ID "
 "Envío Gratis</a>. <br>3º.- Muestra sólo el Envío Gratis si ciertos productos "
 "especificados por su ID en el código están en el carrito, entonces se "
-"mostrará el Envío Gratis y desaparecerán los demás envíos.  <a href="
-"\"https://gist.githubusercontent.com/ChromeOrange/7939277/raw/"
-"b2680c6af7ae39109b63e875e4d5d96c83ee4aa5/gistfile1.php\" target=\"_blank"
-"\">Mostar por ID Envío Gratis</a>"
+"mostrará el Envío Gratis y desaparecerán los demás envíos.  <a href=\"https:"
+"//gist.githubusercontent."
+"com/ChromeOrange/7939277/raw/b2680c6af7ae39109b63e875e4d5d96c83ee4aa5/gistfile1"
+".php\" target=\"_blank\">Mostar por ID Envío Gratis</a>"
 
 # @ woocommerce
 #: classes/shipping/free-shipping/class-wc-shipping-free-shipping.php:88
@@ -12301,9 +13780,9 @@ msgid ""
 msgstr ""
 "El envío local es un método de entrega simple para llevar los pedidos en la "
 "misma ciudad. Si se activa esta opción, se podrá asignar un precio de envío "
-"por: <br>.- Una cantidad fija. <br>.- Porcentaje del total del carrito. "
-"<br>.- Cantidad fija por producto. <br>También permite realizar un filtro "
-"por códigos postales y marcar en qué países se ofrecen los envíos locales. "
+"por: <br>.- Una cantidad fija. <br>.- Porcentaje del total del carrito. <br>."
+"- Cantidad fija por producto. <br>También permite realizar un filtro por "
+"códigos postales y marcar en qué países se ofrecen los envíos locales. "
 "Utilice este método si opera a nivel local y tienen un servicio de entrega, "
 "cómo una pizzería por ejemplo."
 
@@ -12470,8 +13949,8 @@ msgstr "Mi Cuenta &rarr;"
 #: classes/shortcodes/class-wc-shortcode-view-order.php:58
 #, php-format
 msgid ""
-"Order <mark class=\"order-number\">%s</mark> made on <mark class=\"order-date"
-"\">%s</mark>"
+"Order <mark class=\"order-number\">%s</mark> made on <mark class=\"order-"
+"date\">%s</mark>"
 msgstr ""
 "Pedido nº ID: <mark class=\"Número De Pedido\">%s</mark> hecho el <mark "
 "class=\"Fecha Del Pedido\"> %s</mark>"
@@ -12548,8 +14027,8 @@ msgstr "Ocultar productos gratis"
 #: classes/widgets/class-wc-widget-cart.php:33
 msgid "Display the user's Cart in the sidebar."
 msgstr ""
-"Mostrar el carrito del usuario en la barra lateral (sidebar). Con "
-"miniaturas, precios, cantidades y más detalles de los productos."
+"Mostrar el carrito del usuario en la barra lateral (sidebar). Con miniaturas,"
+" precios, cantidades y más detalles de los productos."
 
 # @ woocommerce
 #: classes/widgets/class-wc-widget-cart.php:35
@@ -12975,11 +14454,6 @@ msgid "Cear&aacute;"
 msgstr "Cear&aacute;"
 
 # @ woocommerce
-#: i18n/states/BR.php:19
-msgid "Distrito Federal"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/BR.php:20
 msgid "Esp&iacute;rito Santo"
 msgstr "Esp&iacute;rito Santo"
@@ -13035,21 +14509,6 @@ msgid "Piau&iacute;"
 msgstr "Piau&iacute;"
 
 # @ woocommerce
-#: i18n/states/BR.php:31
-msgid "Rio de Janeiro"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/BR.php:32
-msgid "Rio Grande do Norte"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/BR.php:33
-msgid "Rio Grande do Sul"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/BR.php:34
 msgid "Rond&ocirc;nia"
 msgstr "Rond&ocirc;nia"
@@ -13058,16 +14517,6 @@ msgstr "Rond&ocirc;nia"
 #: i18n/states/BR.php:35
 msgid "Roraima"
 msgstr "Roraima"
-
-# @ woocommerce
-#: i18n/states/BR.php:36
-msgid "Santa Catarina"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/BR.php:37
-msgid "S&atilde;o Paulo"
-msgstr ""
 
 # @ woocommerce
 #: i18n/states/BR.php:38
@@ -13145,166 +14594,6 @@ msgid "Yukon Territory"
 msgstr "Yukon Territory"
 
 # @ woocommerce
-#: i18n/states/CN.php:13
-msgid "Yunnan / &#20113;&#21335;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:14
-msgid "Beijing / &#21271;&#20140;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:15
-msgid "Tianjin / &#22825;&#27941;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:16
-msgid "Hebei / &#27827;&#21271;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:17
-msgid "Shanxi / &#23665;&#35199;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:18
-msgid "Inner Mongolia / &#20839;&#33945;&#21476;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:19
-msgid "Liaoning / &#36797;&#23425;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:20
-msgid "Jilin / &#21513;&#26519;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:21
-msgid "Heilongjiang / &#40657;&#40857;&#27743;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:22
-msgid "Shanghai / &#19978;&#28023;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:23
-msgid "Jiangsu / &#27743;&#33487;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:24
-msgid "Zhejiang / &#27993;&#27743;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:25
-msgid "Anhui / &#23433;&#24509;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:26
-msgid "Fujian / &#31119;&#24314;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:27
-msgid "Jiangxi / &#27743;&#35199;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:28
-msgid "Shandong / &#23665;&#19996;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:29
-msgid "Henan / &#27827;&#21335;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:30
-msgid "Hubei / &#28246;&#21271;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:31
-msgid "Hunan / &#28246;&#21335;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:32
-msgid "Guangdong / &#24191;&#19996;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:33
-msgid "Guangxi Zhuang / &#24191;&#35199;&#22766;&#26063;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:34
-msgid "Hainan / &#28023;&#21335;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:35
-msgid "Chongqing / &#37325;&#24198;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:36
-msgid "Sichuan / &#22235;&#24029;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:37
-msgid "Guizhou / &#36149;&#24030;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:38
-msgid "Shaanxi / &#38485;&#35199;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:39
-msgid "Gansu / &#29976;&#32899;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:40
-msgid "Qinghai / &#38738;&#28023;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:41
-msgid "Ningxia Hui / &#23425;&#22799;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:42
-msgid "Macau / &#28595;&#38376;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:43
-msgid "Tibet / &#35199;&#34255;"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/CN.php:44
-msgid "Xinjiang / &#26032;&#30086;"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/ES.php:13
 msgid "A Coru&ntilde;a"
 msgstr "La Coruña"
@@ -13315,49 +14604,9 @@ msgid "&Aacute;lava"
 msgstr "Álava"
 
 # @ woocommerce
-#: i18n/states/ES.php:15
-msgid "Albacete"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:16
-msgid "Alicante"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:17
-msgid "Almer&iacute;a"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:18
-msgid "Asturias"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/ES.php:19
 msgid "&Aacute;vila"
 msgstr "Ávila"
-
-# @ woocommerce
-#: i18n/states/ES.php:20
-msgid "Badajoz"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:21
-msgid "Baleares"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:22
-msgid "Barcelona"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:23
-msgid "Burgos"
-msgstr ""
 
 # @ woocommerce
 #: i18n/states/ES.php:24
@@ -13370,24 +14619,9 @@ msgid "C&aacute;diz"
 msgstr "Cádiz"
 
 # @ woocommerce
-#: i18n/states/ES.php:26
-msgid "Cantabria"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/ES.php:27
 msgid "Castell&oacute;n"
 msgstr "Castellón"
-
-# @ woocommerce
-#: i18n/states/ES.php:28
-msgid "Ceuta"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:29
-msgid "Ciudad Real"
-msgstr ""
 
 # @ woocommerce
 #: i18n/states/ES.php:30
@@ -13395,39 +14629,9 @@ msgid "C&oacute;rdoba"
 msgstr "Córdoba"
 
 # @ woocommerce
-#: i18n/states/ES.php:31
-msgid "Cuenca"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:32
-msgid "Girona"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:33
-msgid "Granada"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:34
-msgid "Guadalajara"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/ES.php:35
 msgid "Guip&uacute;zcoa"
 msgstr "Guipúzcoa"
-
-# @ woocommerce
-#: i18n/states/ES.php:36
-msgid "Huelva"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:37
-msgid "Huesca"
-msgstr ""
 
 # @ woocommerce
 #: i18n/states/ES.php:38
@@ -13435,134 +14639,9 @@ msgid "Ja&eacute;n"
 msgstr "Jaén"
 
 # @ woocommerce
-#: i18n/states/ES.php:39
-msgid "La Rioja"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:40
-msgid "Las Palmas"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/ES.php:41
 msgid "Le&oacute;n"
 msgstr "León"
-
-# @ woocommerce
-#: i18n/states/ES.php:42
-msgid "Lleida"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:43
-msgid "Lugo"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:44
-msgid "Madrid"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:45
-msgid "M&aacute;laga"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:46
-msgid "Melilla"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:47
-msgid "Murcia"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:48
-msgid "Navarra"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:49
-msgid "Ourense"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:50
-msgid "Palencia"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:51
-msgid "Pontevedra"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:52
-msgid "Salamanca"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:53
-msgid "Santa Cruz de Tenerife"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:54
-msgid "Segovia"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:55
-msgid "Sevilla"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:56
-msgid "Soria"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:57
-msgid "Tarragona"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:58
-msgid "Teruel"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:59
-msgid "Toledo"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:60
-msgid "Valencia"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:61
-msgid "Valladolid"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:62
-msgid "Vizcaya"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:63
-msgid "Zamora"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ES.php:64
-msgid "Zaragoza"
-msgstr ""
 
 # @ woocommerce
 #: i18n/states/HK.php:13
@@ -13580,1036 +14659,9 @@ msgid "New Territories"
 msgstr "Nuevos territorios"
 
 # @ woocommerce
-#: i18n/states/HU.php:13
-msgid "Bács-Kiskun"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:14
-msgid "Békés"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:15
-msgid "Baranya"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:16
-msgid "Borsod-Abaúj-Zemplén"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:17
-msgid "Budapest"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:18
-msgid "Csongrád"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:19
-msgid "Fejér"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:20
-msgid "Győr-Moson-Sopron"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:21
-msgid "Hajdú-Bihar"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:22
-msgid "Heves"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:23
-msgid "Jász-Nagykun-Szolnok"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:24
-msgid "Komárom-Esztergom"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:25
-msgid "Nógrád"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:26
-msgid "Pest"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:27
-msgid "Somogy"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:28
-msgid "Szabolcs-Szatmár-Bereg"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:29
-msgid "Tolna"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:30
-msgid "Vas"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:31
-msgid "Veszprém"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HU.php:32
-msgid "Zala"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:13 i18n/states/NZ.php:14
-msgid "Auckland"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:14 i18n/states/NZ.php:16
-msgid "Bay of Plenty"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:15 i18n/states/NZ.php:25
-msgid "Canterbury"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:16 i18n/states/NZ.php:18
-msgid "Hawke&rsquo;s Bay"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:17 i18n/states/NZ.php:19
-msgid "Manawatu-Wanganui"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:18 i18n/states/NZ.php:22
-msgid "Marlborough"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:19 i18n/states/NZ.php:21
-msgid "Nelson"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:20 i18n/states/NZ.php:13
-msgid "Northland"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:21 i18n/states/NZ.php:26
-msgid "Otago"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:22 i18n/states/NZ.php:27
-msgid "Southland"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:23 i18n/states/NZ.php:17
-msgid "Taranaki"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:24 i18n/states/NZ.php:23
-msgid "Tasman"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:25 i18n/states/NZ.php:15
-msgid "Waikato"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:26 i18n/states/NZ.php:20
-msgid "Wellington"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/HZ.php:27 i18n/states/NZ.php:24
-msgid "West Coast"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:13
-msgid "Daerah Istimewa Aceh"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:14
-msgid "Sumatera Utara"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:15
-msgid "Sumatera Barat"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:16
-msgid "Riau"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:17
-msgid "Kepulauan Riau"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:18
-msgid "Jambi"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:19
-msgid "Sumatera Selatan"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:20
-msgid "Bangka Belitung"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:21
-msgid "Bengkulu"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:22
-msgid "Lampung"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:23
-msgid "DKI Jakarta"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:24
-msgid "Jawa Barat"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:25
-msgid "Banten"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:26
-msgid "Jawa Tengah"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:27
-msgid "Jawa Timur"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:28
-msgid "Daerah Istimewa Yogyakarta"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:29
-msgid "Bali"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:30
-msgid "Nusa Tenggara Barat"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:31
-msgid "Nusa Tenggara Timur"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:32
-msgid "Kalimantan Barat"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:33
-msgid "Kalimantan Tengah"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:34
-msgid "Kalimantan Timur"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:35
-msgid "Kalimantan Selatan"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:36
-msgid "Kalimantan Utara"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:37
-msgid "Sulawesi Utara"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:38
-msgid "Sulawesi Tengah"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:39
-msgid "Sulawesi Tenggara"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:40
-msgid "Sulawesi Barat"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:41
-msgid "Sulawesi Selatan"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:42
-msgid "Gorontalo"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:43
-msgid "Maluku"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:44
-msgid "Maluku Utara"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:45
-msgid "Papua"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ID.php:46
-msgid "Papua Barat"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:13
-msgid "Andra Pradesh"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:14
-msgid "Arunachal Pradesh"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:15
-msgid "Assam"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:16
-msgid "Bihar"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:17
-msgid "Chhattisgarh"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:18
-msgid "Goa"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:19
-msgid "Gujarat"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:20
-msgid "Haryana"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:21
-msgid "Himachal Pradesh"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:22
-msgid "Jammu and Kashmir"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:23
-msgid "Jharkhand"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:24
-msgid "Karnataka"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:25
-msgid "Kerala"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:26
-msgid "Madhya Pradesh"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:27
-msgid "Maharashtra"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:28
-msgid "Manipur"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/IN.php:29
 msgid "Meghalaya"
 msgstr "Malaysia"
-
-# @ woocommerce
-#: i18n/states/IN.php:30
-msgid "Mizoram"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:31
-msgid "Nagaland"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:32
-msgid "Orissa"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:33
-msgid "Punjab"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:34
-msgid "Rajasthan"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:35
-msgid "Sikkim"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:36
-msgid "Tamil Nadu"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:37
-msgid "Tripura"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:38
-msgid "Uttaranchal"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:39
-msgid "Uttar Pradesh"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:40
-msgid "West Bengal"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:41
-msgid "Andaman and Nicobar Islands"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:42
-msgid "Chandigarh"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:43
-msgid "Dadar and Nagar Haveli"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:44
-msgid "Daman and Diu"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:45
-msgid "Delhi"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:46
-msgid "Lakshadeep"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/IN.php:47
-msgid "Pondicherry (Puducherry)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:13
-msgid "Johor"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:14
-msgid "Kedah"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:15
-msgid "Kelantan"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:16
-msgid "Melaka"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:17
-msgid "Negeri Sembilan"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:18
-msgid "Pahang"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:19
-msgid "Perak"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:20
-msgid "Perlis"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:21
-msgid "Pulau Pinang"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:22
-msgid "Sabah"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:23
-msgid "Sarawak"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:24
-msgid "Selangor"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:25
-msgid "Terengganu"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:26
-msgid "W.P. Kuala Lumpur"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:27
-msgid "W.P. Labuan"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/MY.php:28
-msgid "W.P. Putrajaya"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:13
-msgid ""
-"Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;"
-"&#3636;&#3597;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:14
-msgid "Ang Thong (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:15
-msgid ""
-"Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;"
-"&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:16
-msgid ""
-"Bangkok (&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;"
-"&#3634;&#3609;&#3588;&#3619;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:17
-msgid "Bueng Kan (&#3610;&#3638;&#3591;&#3585;&#3634;&#3628;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:18
-msgid ""
-"Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:19
-msgid ""
-"Chachoengsao (&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;"
-"&#3634;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:20
-msgid "Chai Nat (&#3594;&#3633;&#3618;&#3609;&#3634;&#3607;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:21
-msgid "Chaiyaphum (&#3594;&#3633;&#3618;&#3616;&#3641;&#3617;&#3636;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:22
-msgid "Chanthaburi (&#3592;&#3633;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:23
-msgid ""
-"Chiang Mai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:24
-msgid "Chiang Rai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3619;&#3634;&#3618;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:25
-msgid "Chonburi (&#3594;&#3621;&#3610;&#3640;&#3619;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:26
-msgid "Chumphon (&#3594;&#3640;&#3617;&#3614;&#3619;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:27
-msgid ""
-"Kalasin (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:28
-msgid ""
-"Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;"
-"&#3619;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:29
-msgid ""
-"Kanchanaburi (&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;"
-"&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:30
-msgid "Khon Kaen (&#3586;&#3629;&#3609;&#3649;&#3585;&#3656;&#3609;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:31
-msgid "Krabi (&#3585;&#3619;&#3632;&#3610;&#3637;&#3656;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:32
-msgid "Lampang (&#3621;&#3635;&#3611;&#3634;&#3591;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:33
-msgid "Lamphun (&#3621;&#3635;&#3614;&#3641;&#3609;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:34
-msgid "Loei (&#3648;&#3621;&#3618;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:35
-msgid "Lopburi (&#3621;&#3614;&#3610;&#3640;&#3619;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:36
-msgid ""
-"Mae Hong Son (&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;"
-"&#3609;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:37
-msgid ""
-"Maha Sarakham (&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;"
-"&#3617;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:38
-msgid "Mukdahan (&#3617;&#3640;&#3585;&#3604;&#3634;&#3627;&#3634;&#3619;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:39
-msgid "Nakhon Nayok (&#3609;&#3588;&#3619;&#3609;&#3634;&#3618;&#3585;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:40
-msgid "Nakhon Pathom (&#3609;&#3588;&#3619;&#3611;&#3600;&#3617;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:41
-msgid "Nakhon Phanom (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:42
-msgid ""
-"Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;"
-"&#3617;&#3634;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:43
-msgid ""
-"Nakhon Sawan (&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;"
-"&#3660;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:44
-msgid ""
-"Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;"
-"&#3619;&#3617;&#3619;&#3634;&#3594;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:45
-msgid "Nan (&#3609;&#3656;&#3634;&#3609;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:46
-msgid "Narathiwat (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3626;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:47
-msgid ""
-"Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;"
-"&#3635;&#3616;&#3641;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:48
-msgid "Nong Khai (&#3627;&#3609;&#3629;&#3591;&#3588;&#3634;&#3618;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:49
-msgid "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:50
-msgid "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:51
-msgid "Pattani (&#3611;&#3633;&#3605;&#3605;&#3634;&#3609;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:52
-msgid "Phang Nga (&#3614;&#3633;&#3591;&#3591;&#3634;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:53
-msgid "Phatthalung (&#3614;&#3633;&#3607;&#3621;&#3640;&#3591;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:54
-msgid "Phayao (&#3614;&#3632;&#3648;&#3618;&#3634;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:55
-msgid ""
-"Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:56
-msgid "Phetchaburi (&#3648;&#3614;&#3594;&#3619;&#3610;&#3640;&#3619;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:57
-msgid "Phichit (&#3614;&#3636;&#3592;&#3636;&#3605;&#3619;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:58
-msgid "Phitsanulok (&#3614;&#3636;&#3625;&#3603;&#3640;&#3650;&#3621;&#3585;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:59
-msgid "Phrae (&#3649;&#3614;&#3619;&#3656;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:60
-msgid "Phuket (&#3616;&#3641;&#3648;&#3585;&#3655;&#3605;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:61
-msgid ""
-"Prachin Buri (&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;"
-"&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:62
-msgid ""
-"Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;"
-"&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:63
-msgid "Ranong (&#3619;&#3632;&#3609;&#3629;&#3591;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:64
-msgid "Ratchaburi (&#3619;&#3634;&#3594;&#3610;&#3640;&#3619;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:65
-msgid "Rayong (&#3619;&#3632;&#3618;&#3629;&#3591;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:66
-msgid "Roi Et (&#3619;&#3657;&#3629;&#3618;&#3648;&#3629;&#3655;&#3604;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:67
-msgid "Sa Kaeo (&#3626;&#3619;&#3632;&#3649;&#3585;&#3657;&#3623;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:68
-msgid "Sakon Nakhon (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:69
-msgid ""
-"Samut Prakan (&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;"
-"&#3634;&#3619;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:70
-msgid ""
-"Samut Sakhon (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;"
-"&#3619;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:71
-msgid ""
-"Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;"
-"&#3619;&#3634;&#3617;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:72
-msgid "Saraburi (&#3626;&#3619;&#3632;&#3610;&#3640;&#3619;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:73
-msgid "Satun (&#3626;&#3605;&#3641;&#3621;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:74
-msgid ""
-"Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:75
-msgid "Sisaket (&#3624;&#3619;&#3637;&#3626;&#3632;&#3648;&#3585;&#3625;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:76
-msgid "Songkhla (&#3626;&#3591;&#3586;&#3621;&#3634;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:77
-msgid "Sukhothai (&#3626;&#3640;&#3650;&#3586;&#3607;&#3633;&#3618;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:78
-msgid ""
-"Suphan Buri (&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;"
-"&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:79
-msgid ""
-"Surat Thani (&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;"
-"&#3634;&#3609;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:80
-msgid "Surin (&#3626;&#3640;&#3619;&#3636;&#3609;&#3607;&#3619;&#3660;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:81
-msgid "Tak (&#3605;&#3634;&#3585;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:82
-msgid "Trang (&#3605;&#3619;&#3633;&#3591;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:83
-msgid "Trat (&#3605;&#3619;&#3634;&#3604;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:84
-msgid ""
-"Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;"
-"&#3634;&#3609;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:85
-msgid "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:86
-msgid ""
-"Uthai Thani (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:87
-msgid ""
-"Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:88
-msgid "Yala (&#3618;&#3632;&#3621;&#3634;)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/TH.php:89
-msgid "Yasothon (&#3618;&#3650;&#3626;&#3608;&#3619;)"
-msgstr ""
 
 # @ woocommerce
 #: i18n/states/US.php:13
@@ -14862,21 +14914,6 @@ msgid "Wyoming"
 msgstr "Wyoming"
 
 # @ woocommerce
-#: i18n/states/US.php:64
-msgid "Armed Forces (AA)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/US.php:65
-msgid "Armed Forces (AE)"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/US.php:66
-msgid "Armed Forces (AP)"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/US.php:67
 msgid "American Samoa"
 msgstr "American Samoa"
@@ -14902,54 +14939,14 @@ msgid "US Minor Outlying Islands"
 msgstr "US Minor Outlying Islands"
 
 # @ woocommerce
-#: i18n/states/US.php:72
-msgid "US Virgin Islands"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ZA.php:13
-msgid "Eastern Cape"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/ZA.php:14
 msgid "Free State"
 msgstr "Estado/Región"
 
 # @ woocommerce
-#: i18n/states/ZA.php:15
-msgid "Gauteng"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ZA.php:16
-msgid "KwaZulu-Natal"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ZA.php:17
-msgid "Limpopo"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ZA.php:18
-msgid "Mpumalanga"
-msgstr ""
-
-# @ woocommerce
-#: i18n/states/ZA.php:19
-msgid "Northern Cape"
-msgstr ""
-
-# @ woocommerce
 #: i18n/states/ZA.php:20
 msgid "North West"
 msgstr "North Korea"
-
-# @ woocommerce
-#: i18n/states/ZA.php:21
-msgid "Western Cape"
-msgstr ""
 
 # @ woocommerce
 #: templates/loop-shop.php:40 templates/loop/no-products-found.php:14
@@ -15003,11 +15000,11 @@ msgstr "Sé el primero en opinar sobre el producto "
 # @ woocommerce
 #: templates/single-product-reviews.php:71
 msgid ""
-"There are no reviews yet, would you like to <a href=\"#review_form\" class="
-"\"inline show_review_form\">submit yours</a>?"
+"There are no reviews yet, would you like to <a href=\"#review_form\" "
+"class=\"inline show_review_form\">submit yours</a>?"
 msgstr ""
-"Todavía no hay comentarios, sin embargo, <a href=\"#review_form\" class="
-"\"inline show_review_form\"> ¿ Le gustaría dejar su opinión ?</a>"
+"Todavía no hay comentarios, sin embargo, <a href=\"#review_form\" "
+"class=\"inline show_review_form\"> ¿ Le gustaría dejar su opinión ?</a>"
 
 # @ woocommerce
 #: templates/single-product-reviews.php:89
@@ -15226,8 +15223,8 @@ msgstr ""
 "tienda o al carrito y resuelva los inconvenientes antes de hacer su pedido. "
 "<br><br>También puede ponerse en contacto con nosotros a través del teléfono "
 "de la tienda o a través de nuestra página de Atención al Cliente donde "
-"intentaremos resolver lo antes posible el inconveniente surgido. "
-"<br><br>Muchas gracias."
+"intentaremos resolver lo antes posible el inconveniente surgido. <br><br>"
+"Muchas gracias."
 
 # @ woocommerce
 #: templates/checkout/cart-errors.php:20
@@ -15345,9 +15342,8 @@ msgstr ""
 #: templates/checkout/review-order.php:185
 msgid ""
 "Since your browser does not support JavaScript, or it is disabled, please "
-"ensure you click the <em>Update Totals</em> button before placing your "
-"order. You may be charged more than the amount stated above if you fail to "
-"do so."
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
 msgstr ""
 "Debido a que su navegador no soporta JavaScript o lo tiene deshabilitado, "
 "por favor asegúrese de hacer clic en el botón <em>Update Totals</em> antes "
@@ -15377,8 +15373,8 @@ msgstr "<br>Términos y Condiciones"
 # @ woocommerce
 #: templates/checkout/thankyou.php:18
 msgid ""
-"Unfortunately your order cannot be processed as the originating bank/"
-"merchant has declined your transaction."
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction."
 msgstr ""
 "Desafortunadamente su pedido no puede ser procesado ya que el banco ha "
 "declinado su transacción."
@@ -15688,7 +15684,7 @@ msgstr "Guardar Dirección"
 #: templates/myaccount/form-login.php:26 templates/myaccount/form-login.php:40
 #: templates/shop/form-login.php:31
 msgid "Login"
-msgstr "Soy cliente."
+msgstr "Ingresar"
 
 # @ woocommerce
 #: templates/myaccount/form-login.php:29
@@ -15709,8 +15705,7 @@ msgid "Lost Password?"
 msgstr "<br>¿Perdió su Contraseña?"
 
 # @ woocommerce
-#: templates/myaccount/form-login.php:60
-#: templates/myaccount/form-login.php:101
+#: templates/myaccount/form-login.php:60 templates/myaccount/form-login.php:101
 msgid "Register"
 msgstr "Regístrese en nuestra tienda."
 
@@ -15749,21 +15744,21 @@ msgstr "¿Perdió su Contraseña?"
 #, php-format
 msgid ""
 "Hello, <strong>%s</strong>. From your account dashboard you can view your "
-"recent orders, manage your shipping and billing addresses and <a href=\"%s"
-"\">change your password</a>."
+"recent orders, manage your shipping and billing addresses and <a href=\"%s\">"
+"change your password</a>."
 msgstr ""
 "<strong>¡¡¡ Hola, %s  y bienvenido !!! .</strong> Al crear una cuenta de "
 "cliente con nosotros Usted podrá realizar sus compras rápidamente, puede ver "
 "sus pedidos recientes y su estado, gestionar su envío, facturación, revisar "
-"el seguimiento de los pedidos que ha hecho anteriormente además de <a href="
-"\"%s\">Cambiar su contraseña</a>. <br><br>La información solicitada es "
+"el seguimiento de los pedidos que ha hecho anteriormente además de <a "
+"href=\"%s\">Cambiar su contraseña</a>. <br><br>La información solicitada es "
 "necesaria para procesar su solicitud cómo cliente nuestro, ¡Nos es más fácil "
-"enviarle su pedido si ya tenemos su dirección en nuestro sistema!. "
-"<br><br>Lo que necesitamos aquí es la dirección de facturación, si luego "
-"quiere que le enviemos el pedido a otro sitio, no hay problema, puede darnos "
-"otra dirección cuando realice la compra, garantizándole que los datos "
-"recogidos sólo tienen cómo finalidad su acceso a la tienda y no implica en "
-"modo alguno su utilización para otros fines."
+"enviarle su pedido si ya tenemos su dirección en nuestro sistema!. <br><br>"
+"Lo que necesitamos aquí es la dirección de facturación, si luego quiere que "
+"le enviemos el pedido a otro sitio, no hay problema, puede darnos otra "
+"dirección cuando realice la compra, garantizándole que los datos recogidos "
+"sólo tienen cómo finalidad su acceso a la tienda y no implica en modo alguno "
+"su utilización para otros fines."
 
 # @ woocommerce
 #: templates/myaccount/my-address.php:17
